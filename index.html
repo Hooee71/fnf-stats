@@ -1,0 +1,48 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Matches · FNF Arena Tracker</title>
+<meta name="description" content="2v2 arena games and stats from FNF Arena Tracker.">
+<link rel="icon" href="favicon.ico">
+<link rel="stylesheet" href="site.css">
+</head>
+<body>
+<header class="banner">
+  <div class="wrap banner-row">
+    <a class="logo" href="index.html"><img src="assets/logo.png" alt="FNF Arena Tracker"></a>
+    <div class="record">
+      <span class="session">Last night out, Tue Oct 20: 1-0 &#183; streak W1</span>
+      <span class="overall">Season 1-0 (100%)</span>
+    </div>
+  </div>
+  <nav class="wrap tabs"><a href="index.html" class="active" aria-current="page">Matches</a><a href="stats.html">Stats</a></nav>
+</header>
+<main class="wrap">
+<div class="toolbar">
+  <div class="filter" role="group" aria-label="Show">
+    <button type="button" class="on" data-filter="all">All</button>
+    <button type="button" data-filter="w">Wins</button>
+    <button type="button" data-filter="l">Losses</button>
+  </div>
+  <input type="search" id="search" placeholder="Search comp, spec, player, map, tag…" aria-label="Search games">
+  <span class="count" id="count">1 game(s)</span>
+</div><div class="table-scroll">
+<table class="matches sortable" id="matches">
+<thead><tr>
+  <th data-type="num" class="c">Night</th><th data-type="num" class="c">#</th><th data-type="num" class="c">Time</th>
+  <th class="c">W/L</th><th>Enemies</th><th>Our team</th><th>Map</th>
+  <th data-type="num" class="c">Rating</th><th data-type="num" class="c">+/-</th>
+  <th data-type="num" class="c">Their MMR</th><th data-type="num" class="c">DPS/HPS</th><th data-type="num" class="c">Length</th>
+</tr></thead>
+<tbody><tr data-result="w" data-search="holy paladin thefury-sargeras enhancement shaman zabozix-tichondrius nagrand arena cheaters"><td class="c" data-sort="639281301000000000">Tue 10/20</td><td class="c">1</td><td class="c" data-sort="789000000000">9:55 PM</td><td class="c result win">W</td><td><div class="chip"><i style="background:#F48CBA"></i><b style="color:#F48CBA">Holy Paladin</b><a class="name" href="https://check-pvp.fr/us/Sargeras/Thefury" target="_blank" rel="noopener" title="Open on check-pvp.fr">Thefury-Sargeras</a></div><div class="chip"><i style="background:#0070DD"></i><b style="color:#0070DD">Enhancement Shaman</b><a class="name" href="https://check-pvp.fr/us/Tichondrius/Zabozix" target="_blank" rel="noopener" title="Open on check-pvp.fr">Zabozix-Tichondrius</a></div></td><td class="ours"></td><td>Nagrand Arena<div class="tags"><span>cheaters</span></div></td><td class="c">1950</td><td class="c win" data-sort="13">+13</td><td class="c"></td><td class="c" data-sort=""></td><td class="c" data-sort="453">7:33</td></tr>
+</tbody></table></div>
+</main>
+<footer class="wrap">
+  Updated Wed Oct 21, 2026 at 8:30 PM ·
+  made with <a href="https://github.com/Hooee71/FNFTracker">FNF Arena Tracker</a>
+</footer>
+<script src="site.js"></script>
+</body>
+</html>
