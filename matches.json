@@ -12,14 +12,16 @@
           "Spec": "Retribution",
           "Name": "Corpsehmper",
           "Damage": 3623106,
-          "Healing": 1594836
+          "Healing": 1594836,
+          "Rating": 1962
         },
         {
           "Class": "Monk",
           "Spec": "Mistweaver",
           "Name": "Sackpuncher",
           "Damage": 1037074,
-          "Healing": 4798705
+          "Healing": 4798705,
+          "Rating": 1962
         }
       ],
       "Enemies": [
@@ -28,14 +30,16 @@
           "Spec": "Mistweaver",
           "Name": "One-BlackwingLair",
           "Damage": 1786033,
-          "Healing": 4039449
+          "Healing": 4039449,
+          "Rating": 1735
         },
         {
           "Class": "Warrior",
           "Spec": "Arms",
           "Name": "Pathetic-Executus",
           "Damage": 6184896,
-          "Healing": 602309
+          "Healing": 602309,
+          "Rating": 1438
         }
       ],
       "RatingAfter": 1962,
@@ -58,14 +62,16 @@
           "Spec": "Retribution",
           "Name": "Corpsehmper",
           "Damage": 2406273,
-          "Healing": 1897825
+          "Healing": 1897825,
+          "Rating": 1962
         },
         {
           "Class": "Monk",
           "Spec": "Mistweaver",
           "Name": "Sackpuncher",
           "Damage": 794325,
-          "Healing": 3911580
+          "Healing": 3911580,
+          "Rating": 1962
         }
       ],
       "Enemies": [
@@ -74,14 +80,16 @@
           "Spec": "Fire",
           "Name": "Seht-Nathrezim",
           "Damage": 2969076,
-          "Healing": 1049128
+          "Healing": 1049128,
+          "Rating": 1744
         },
         {
           "Class": "Rogue",
           "Spec": "Subtlety",
           "Name": "Ssolemn-Tichondrius",
           "Damage": 2961942,
-          "Healing": 833439
+          "Healing": 833439,
+          "Rating": 1716
         }
       ],
       "RatingAfter": 1977,
@@ -104,14 +112,16 @@
           "Spec": "Retribution",
           "Name": "Corpsehmper",
           "Damage": 10801030,
-          "Healing": 2937478
+          "Healing": 2937478,
+          "Rating": 1977
         },
         {
           "Class": "Monk",
           "Spec": "Mistweaver",
           "Name": "Sackpuncher",
           "Damage": 2083575,
-          "Healing": 8131259
+          "Healing": 8131259,
+          "Rating": 1977
         }
       ],
       "Enemies": [
@@ -120,14 +130,16 @@
           "Spec": "Subtlety",
           "Name": "Qutip-Gnomeregan",
           "Damage": 11239115,
-          "Healing": 388948
+          "Healing": 388948,
+          "Rating": 1597
         },
         {
           "Class": "Shaman",
           "Spec": "Restoration",
           "Name": "Vanqtotem-Area52",
           "Damage": 1259001,
-          "Healing": 12329705
+          "Healing": 12329705,
+          "Rating": 672
         }
       ],
       "RatingAfter": 1977,
@@ -150,14 +162,16 @@
           "Spec": "Retribution",
           "Name": "Corpsehmper",
           "Damage": 9374911,
-          "Healing": 2298650
+          "Healing": 2298650,
+          "Rating": 1977
         },
         {
           "Class": "Monk",
           "Spec": "Mistweaver",
           "Name": "Sackpuncher",
           "Damage": 1887761,
-          "Healing": 9710130
+          "Healing": 9710130,
+          "Rating": 1977
         }
       ],
       "Enemies": [
@@ -166,14 +180,16 @@
           "Spec": "Discipline",
           "Name": "Amman-Tichondrius",
           "Damage": 3758828,
-          "Healing": 10839782
+          "Healing": 10839782,
+          "Rating": 1930
         },
         {
           "Class": "Rogue",
           "Spec": "Assassination",
           "Name": "Dustti-Tichondrius",
           "Damage": 10129189,
-          "Healing": 489033
+          "Healing": 489033,
+          "Rating": 2029
         }
       ],
       "RatingAfter": 1970,
@@ -196,14 +212,16 @@
           "Spec": "Retribution",
           "Name": "Corpsehmper",
           "Damage": 11521406,
-          "Healing": 3047118
+          "Healing": 3047118,
+          "Rating": 1970
         },
         {
           "Class": "Monk",
           "Spec": "Mistweaver",
           "Name": "Sackpuncher",
           "Damage": 1098971,
-          "Healing": 7754359
+          "Healing": 7754359,
+          "Rating": 1970
         }
       ],
       "Enemies": [
@@ -212,14 +230,16 @@
           "Spec": "Holy",
           "Name": "Dbmp-Mal\u0027Ganis",
           "Damage": 2233492,
-          "Healing": 11706887
+          "Healing": 11706887,
+          "Rating": 1053
         },
         {
           "Class": "Hunter",
           "Spec": "Marksmanship",
           "Name": "Tucaliber",
           "Damage": 10730713,
-          "Healing": 926537
+          "Healing": 926537,
+          "Rating": 1236
         }
       ],
       "RatingAfter": 1961,
@@ -242,14 +262,16 @@
           "Spec": "Retribution",
           "Name": "Corpsehmper",
           "Damage": 17605558,
-          "Healing": 3342962
+          "Healing": 3342962,
+          "Rating": 1961
         },
         {
           "Class": "Monk",
           "Spec": "Mistweaver",
           "Name": "Sackpuncher",
           "Damage": 1411445,
-          "Healing": 14382084
+          "Healing": 14382084,
+          "Rating": 1961
         }
       ],
       "Enemies": [
@@ -258,14 +280,16 @@
           "Spec": "Devourer",
           "Name": "Sw\u00E9g-Area52",
           "Damage": 18861519,
-          "Healing": 4112135
+          "Healing": 4112135,
+          "Rating": 1504
         },
         {
           "Class": "Priest",
           "Spec": "Holy",
           "Name": "Slyn\u00EDght-AzjolNerub",
           "Damage": 830170,
-          "Healing": 14793361
+          "Healing": 14793361,
+          "Rating": 960
         }
       ],
       "RatingAfter": 1952,
@@ -288,14 +312,16 @@
           "Spec": "Retribution",
           "Name": "Corpsehmper",
           "Damage": 16261752,
-          "Healing": 2468320
+          "Healing": 2468320,
+          "Rating": 1952
         },
         {
           "Class": "Monk",
           "Spec": "Mistweaver",
           "Name": "Sackpuncher",
           "Damage": 2831897,
-          "Healing": 10525211
+          "Healing": 10525211,
+          "Rating": 1952
         }
       ],
       "Enemies": [
@@ -304,14 +330,16 @@
           "Spec": "Retribution",
           "Name": "Darnault-Stormrage",
           "Damage": 12278254,
-          "Healing": 530843
+          "Healing": 530843,
+          "Rating": 861
         },
         {
           "Class": "Evoker",
           "Spec": "Preservation",
           "Name": "Beardus\u00E5h-Tichondrius",
           "Damage": 2248874,
-          "Healing": 18281738
+          "Healing": 18281738,
+          "Rating": 2154
         }
       ],
       "RatingAfter": 1942,
@@ -334,14 +362,16 @@
           "Spec": "Retribution",
           "Name": "Corpsehmper",
           "Damage": 5774050,
-          "Healing": 1330916
+          "Healing": 1330916,
+          "Rating": 1942
         },
         {
           "Class": "Monk",
           "Spec": "Mistweaver",
           "Name": "Sackpuncher",
           "Damage": 1561242,
-          "Healing": 4953500
+          "Healing": 4953500,
+          "Rating": 1942
         }
       ],
       "Enemies": [
@@ -350,14 +380,16 @@
           "Spec": "Unholy",
           "Name": "Patapome-Ragnaros",
           "Damage": 5808390,
-          "Healing": 543740
+          "Healing": 543740,
+          "Rating": 1246
         },
         {
           "Class": "Druid",
           "Spec": "Restoration",
           "Name": "Tupi-Ragnaros",
           "Damage": 543213,
-          "Healing": 4688885
+          "Healing": 4688885,
+          "Rating": 2072
         }
       ],
       "RatingAfter": 1954,
@@ -380,14 +412,16 @@
           "Spec": "Mistweaver",
           "Name": "Sackpuncher",
           "Damage": 1343438,
-          "Healing": 14222715
+          "Healing": 14222715,
+          "Rating": 1954
         },
         {
           "Class": "Paladin",
           "Spec": "Retribution",
           "Name": "Corpsehmper",
           "Damage": 11923449,
-          "Healing": 3437093
+          "Healing": 3437093,
+          "Rating": 1954
         }
       ],
       "Enemies": [
@@ -396,14 +430,16 @@
           "Spec": "Discipline",
           "Name": "Zh\u00ECli\u00E1o-Tichondrius",
           "Damage": 6720386,
-          "Healing": 11905036
+          "Healing": 11905036,
+          "Rating": 1863
         },
         {
           "Class": "Rogue",
           "Spec": "Assassination",
           "Name": "Mengbao-Tichondrius",
           "Damage": 13471439,
-          "Healing": 1557344
+          "Healing": 1557344,
+          "Rating": 672
         }
       ],
       "RatingAfter": 1949,
@@ -428,14 +464,16 @@
           "Spec": "Mistweaver",
           "Name": "Sackpuncher",
           "Damage": 2838208,
-          "Healing": 11700584
+          "Healing": 11700584,
+          "Rating": 1949
         },
         {
           "Class": "Paladin",
           "Spec": "Retribution",
           "Name": "Corpsehmper",
           "Damage": 9399815,
-          "Healing": 2206776
+          "Healing": 2206776,
+          "Rating": 1949
         }
       ],
       "Enemies": [
@@ -444,14 +482,16 @@
           "Spec": "Discipline",
           "Name": "Fathersbeltt-Stormrage",
           "Damage": 2426068,
-          "Healing": 9998459
+          "Healing": 9998459,
+          "Rating": 1686
         },
         {
           "Class": "Death Knight",
           "Spec": "Unholy",
           "Name": "Kankaa-Stormrage",
           "Damage": 11514547,
-          "Healing": 1062187
+          "Healing": 1062187,
+          "Rating": 1532
         }
       ],
       "RatingAfter": 1962,
@@ -476,14 +516,16 @@
           "Spec": "Mistweaver",
           "Name": "Sackpuncher",
           "Damage": 3460671,
-          "Healing": 13484303
+          "Healing": 13484303,
+          "Rating": 1962
         },
         {
           "Class": "Paladin",
           "Spec": "Retribution",
           "Name": "Corpsehmper",
           "Damage": 21985520,
-          "Healing": 3810691
+          "Healing": 3810691,
+          "Rating": 1962
         }
       ],
       "Enemies": [
@@ -492,14 +534,16 @@
           "Spec": "Restoration",
           "Name": "Blobylight-Tichondrius",
           "Damage": 2506686,
-          "Healing": 23938933
+          "Healing": 23938933,
+          "Rating": 1659
         },
         {
           "Class": "Demon Hunter",
           "Spec": "Havoc",
           "Name": "Dtdh-BleedingHollow",
           "Damage": 15951107,
-          "Healing": 1593015
+          "Healing": 1593015,
+          "Rating": 960
         }
       ],
       "RatingAfter": 1951,
@@ -524,14 +568,16 @@
           "Spec": "Mistweaver",
           "Name": "Sackpuncher",
           "Damage": 2714647,
-          "Healing": 11668053
+          "Healing": 11668053,
+          "Rating": 1951
         },
         {
           "Class": "Paladin",
           "Spec": "Retribution",
           "Name": "Corpsehmper",
           "Damage": 8754249,
-          "Healing": 1061805
+          "Healing": 1061805,
+          "Rating": 1951
         }
       ],
       "Enemies": [
@@ -540,14 +586,16 @@
           "Spec": "Discipline",
           "Name": "Fathersbeltt-Stormrage",
           "Damage": 2691971,
-          "Healing": 8945238
+          "Healing": 8945238,
+          "Rating": 1706
         },
         {
           "Class": "Death Knight",
           "Spec": "Unholy",
           "Name": "Kankaa-Stormrage",
           "Damage": 10407346,
-          "Healing": 1634133
+          "Healing": 1634133,
+          "Rating": 1554
         }
       ],
       "RatingAfter": 1962,
@@ -572,14 +620,16 @@
           "Spec": "Mistweaver",
           "Name": "Sackpuncher",
           "Damage": 1856919,
-          "Healing": 7593638
+          "Healing": 7593638,
+          "Rating": 1962
         },
         {
           "Class": "Paladin",
           "Spec": "Retribution",
           "Name": "Corpsehmper",
           "Damage": 6040418,
-          "Healing": 466596
+          "Healing": 466596,
+          "Rating": 1962
         }
       ],
       "Enemies": [
@@ -588,14 +638,16 @@
           "Spec": "Holy",
           "Name": "Nethong-Illidan",
           "Damage": 871460,
-          "Healing": 5820867
+          "Healing": 5820867,
+          "Rating": 1956
         },
         {
           "Class": "Death Knight",
           "Spec": "Unholy",
           "Name": "Zombies-ShatteredHand",
           "Damage": 7340239,
-          "Healing": 960908
+          "Healing": 960908,
+          "Rating": 1713
         }
       ],
       "RatingAfter": 1976,
