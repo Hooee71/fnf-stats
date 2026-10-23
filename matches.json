@@ -560,6 +560,54 @@
       "Source": "addon",
       "ExternalId": "Sackpuncher-Sargeras/20261022-214243-4967",
       "RecordedBy": "Sackpuncher-Sargeras"
+    },
+    {
+      "Id": "1b58caaa-ac60-5230-c03a-47f08de3114c",
+      "PlayedAt": "2026-10-22T21:56:11-04:00",
+      "Won": true,
+      "Map": "Nagrand Arena",
+      "OurTeam": [
+        {
+          "Class": "Monk",
+          "Spec": "Mistweaver",
+          "Name": "Sackpuncher",
+          "Damage": 1856919,
+          "Healing": 7593638
+        },
+        {
+          "Class": "Paladin",
+          "Spec": "Retribution",
+          "Name": "Corpsehmper",
+          "Damage": 6040418,
+          "Healing": 466596
+        }
+      ],
+      "Enemies": [
+        {
+          "Class": "Priest",
+          "Spec": "Holy",
+          "Name": "Nethong-Illidan",
+          "Damage": 871460,
+          "Healing": 5820867
+        },
+        {
+          "Class": "Death Knight",
+          "Spec": "Unholy",
+          "Name": "Zombies-ShatteredHand",
+          "Damage": 7340239,
+          "Healing": 960908
+        }
+      ],
+      "RatingAfter": 1976,
+      "RatingChange": 14,
+      "DurationSeconds": 117,
+      "OurMmr": 2006,
+      "EnemyMmr": 2007,
+      "Tags": [],
+      "Notes": "",
+      "Source": "addon",
+      "ExternalId": "Sackpuncher-/20261022-215314-7061",
+      "RecordedBy": "Sackpuncher-"
     }
   ]
 }
