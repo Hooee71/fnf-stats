@@ -144,6 +144,150 @@
       "Source": "addon",
       "ExternalId": "Sackpuncher-Sargeras/20261022-201952-8590",
       "RecordedBy": "Sackpuncher-Sargeras"
+    },
+    {
+      "Id": "43d67f55-0100-5d9e-a223-5c78801c00ed",
+      "PlayedAt": "2026-10-22T20:33:40-04:00",
+      "Won": false,
+      "Map": "Black Rook Hold Arena",
+      "OurTeam": [
+        {
+          "Class": "Paladin",
+          "Spec": "Retribution",
+          "Name": "Corpsehmper",
+          "Damage": 9374911,
+          "Healing": 2298650
+        },
+        {
+          "Class": "Monk",
+          "Spec": "Mistweaver",
+          "Name": "Sackpuncher",
+          "Damage": 1887761,
+          "Healing": 9710130
+        }
+      ],
+      "Enemies": [
+        {
+          "Class": "Priest",
+          "Spec": "Discipline",
+          "Name": "Amman-Tichondrius",
+          "Damage": 3758828,
+          "Healing": 10839782
+        },
+        {
+          "Class": "Rogue",
+          "Spec": "Assassination",
+          "Name": "Dustti-Tichondrius",
+          "Damage": 10129189,
+          "Healing": 489033
+        }
+      ],
+      "RatingAfter": 1970,
+      "RatingChange": -7,
+      "DurationSeconds": 187,
+      "OurMmr": 0,
+      "EnemyMmr": 0,
+      "Tags": [],
+      "Notes": "",
+      "Source": "addon",
+      "ExternalId": "Sackpuncher-Sargeras/20261022-202934-7236",
+      "RecordedBy": "Sackpuncher-Sargeras"
+    },
+    {
+      "Id": "d2fb54f4-c87e-a74f-6182-f3b5ea639da5",
+      "PlayedAt": "2026-10-22T20:39:55-04:00",
+      "Won": false,
+      "Map": "Maldraxxus Coliseum",
+      "OurTeam": [
+        {
+          "Class": "Paladin",
+          "Spec": "Retribution",
+          "Name": "Corpsehmper",
+          "Damage": 11521406,
+          "Healing": 3047118
+        },
+        {
+          "Class": "Monk",
+          "Spec": "Mistweaver",
+          "Name": "Sackpuncher",
+          "Damage": 1098971,
+          "Healing": 7754359
+        }
+      ],
+      "Enemies": [
+        {
+          "Class": "Priest",
+          "Spec": "Holy",
+          "Name": "Dbmp-Mal\u0027Ganis",
+          "Damage": 2233492,
+          "Healing": 11706887
+        },
+        {
+          "Class": "Hunter",
+          "Spec": "Marksmanship",
+          "Name": "Tucaliber",
+          "Damage": 10730713,
+          "Healing": 926537
+        }
+      ],
+      "RatingAfter": 1961,
+      "RatingChange": -9,
+      "DurationSeconds": 226,
+      "OurMmr": 0,
+      "EnemyMmr": 0,
+      "Tags": [],
+      "Notes": "",
+      "Source": "addon",
+      "ExternalId": "Sackpuncher-Sargeras/20261022-203509-1657",
+      "RecordedBy": "Sackpuncher-Sargeras"
+    },
+    {
+      "Id": "08c2242e-ce16-fcdd-a9f6-1df7b2587402",
+      "PlayedAt": "2026-10-22T20:55:22-04:00",
+      "Won": false,
+      "Map": "Ruins of Lordaeron",
+      "OurTeam": [
+        {
+          "Class": "Paladin",
+          "Spec": "Retribution",
+          "Name": "Corpsehmper",
+          "Damage": 17605558,
+          "Healing": 3342962
+        },
+        {
+          "Class": "Monk",
+          "Spec": "Mistweaver",
+          "Name": "Sackpuncher",
+          "Damage": 1411445,
+          "Healing": 14382084
+        }
+      ],
+      "Enemies": [
+        {
+          "Class": "Demon Hunter",
+          "Spec": "Devourer",
+          "Name": "Sw\u00E9g-Area52",
+          "Damage": 18861519,
+          "Healing": 4112135
+        },
+        {
+          "Class": "Priest",
+          "Spec": "Holy",
+          "Name": "Slyn\u00EDght-AzjolNerub",
+          "Damage": 830170,
+          "Healing": 14793361
+        }
+      ],
+      "RatingAfter": 1952,
+      "RatingChange": -9,
+      "DurationSeconds": 303,
+      "OurMmr": 0,
+      "EnemyMmr": 0,
+      "Tags": [],
+      "Notes": "",
+      "Source": "addon",
+      "ExternalId": "Sackpuncher-/20261022-204922-5986",
+      "RecordedBy": "Sackpuncher-"
     }
   ]
 }
