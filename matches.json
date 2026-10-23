@@ -416,6 +416,54 @@
       "Source": "addon",
       "ExternalId": "Sackpuncher-Sargeras/20261022-211353-2050",
       "RecordedBy": "Sackpuncher-Sargeras"
+    },
+    {
+      "Id": "29f87cea-35eb-ba08-d54d-44330914949f",
+      "PlayedAt": "2026-10-22T21:26:15-04:00",
+      "Won": true,
+      "Map": "Ruins of Lordaeron",
+      "OurTeam": [
+        {
+          "Class": "Monk",
+          "Spec": "Mistweaver",
+          "Name": "Sackpuncher",
+          "Damage": 2838208,
+          "Healing": 11700584
+        },
+        {
+          "Class": "Paladin",
+          "Spec": "Retribution",
+          "Name": "Corpsehmper",
+          "Damage": 9399815,
+          "Healing": 2206776
+        }
+      ],
+      "Enemies": [
+        {
+          "Class": "Priest",
+          "Spec": "Discipline",
+          "Name": "Fathersbeltt-Stormrage",
+          "Damage": 2426068,
+          "Healing": 9998459
+        },
+        {
+          "Class": "Death Knight",
+          "Spec": "Unholy",
+          "Name": "Kankaa-Stormrage",
+          "Damage": 11514547,
+          "Healing": 1062187
+        }
+      ],
+      "RatingAfter": 1962,
+      "RatingChange": 13,
+      "DurationSeconds": 216,
+      "OurMmr": 1964,
+      "EnemyMmr": 1980,
+      "Tags": [],
+      "Notes": "",
+      "Source": "addon",
+      "ExternalId": "Sackpuncher-Sargeras/20261022-212150-2347",
+      "RecordedBy": "Sackpuncher-Sargeras"
     }
   ]
 }
