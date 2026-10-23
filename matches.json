@@ -464,6 +464,54 @@
       "Source": "addon",
       "ExternalId": "Sackpuncher-Sargeras/20261022-212150-2347",
       "RecordedBy": "Sackpuncher-Sargeras"
+    },
+    {
+      "Id": "a24d1a76-9f99-0b39-5404-b0ca2d7bb145",
+      "PlayedAt": "2026-10-22T21:35:26-04:00",
+      "Won": false,
+      "Map": "Empyrean Domain",
+      "OurTeam": [
+        {
+          "Class": "Monk",
+          "Spec": "Mistweaver",
+          "Name": "Sackpuncher",
+          "Damage": 3460671,
+          "Healing": 13484303
+        },
+        {
+          "Class": "Paladin",
+          "Spec": "Retribution",
+          "Name": "Corpsehmper",
+          "Damage": 21985520,
+          "Healing": 3810691
+        }
+      ],
+      "Enemies": [
+        {
+          "Class": "Druid",
+          "Spec": "Restoration",
+          "Name": "Blobylight-Tichondrius",
+          "Damage": 2506686,
+          "Healing": 23938933
+        },
+        {
+          "Class": "Demon Hunter",
+          "Spec": "Havoc",
+          "Name": "Dtdh-BleedingHollow",
+          "Damage": 15951107,
+          "Healing": 1593015
+        }
+      ],
+      "RatingAfter": 1951,
+      "RatingChange": -11,
+      "DurationSeconds": 341,
+      "OurMmr": 2014,
+      "EnemyMmr": 1988,
+      "Tags": [],
+      "Notes": "",
+      "Source": "addon",
+      "ExternalId": "Sackpuncher-Sargeras/20261022-212848-7499",
+      "RecordedBy": "Sackpuncher-Sargeras"
     }
   ]
 }
