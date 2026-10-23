@@ -1,0 +1,53 @@
+{
+  "Schema": 1,
+  "Matches": [
+    {
+      "Id": "1358dabd-26e0-33c5-4dc0-5794775f5c21",
+      "PlayedAt": "2026-10-22T20:12:23-04:00",
+      "Won": false,
+      "Map": "Empyrean Domain",
+      "OurTeam": [
+        {
+          "Class": "Paladin",
+          "Spec": "Retribution",
+          "Name": "Corpsehmper",
+          "Damage": 3623106,
+          "Healing": 1594836
+        },
+        {
+          "Class": "Monk",
+          "Spec": "Mistweaver",
+          "Name": "Sackpuncher",
+          "Damage": 1037074,
+          "Healing": 4798705
+        }
+      ],
+      "Enemies": [
+        {
+          "Class": "Monk",
+          "Spec": "Mistweaver",
+          "Name": "One-BlackwingLair",
+          "Damage": 1786033,
+          "Healing": 4039449
+        },
+        {
+          "Class": "Warrior",
+          "Spec": "Arms",
+          "Name": "Pathetic-Executus",
+          "Damage": 6184896,
+          "Healing": 602309
+        }
+      ],
+      "RatingAfter": 1962,
+      "RatingChange": 0,
+      "DurationSeconds": 72,
+      "OurMmr": 0,
+      "EnemyMmr": 0,
+      "Tags": [],
+      "Notes": "",
+      "Source": "addon",
+      "ExternalId": "Sackpuncher-Sargeras/20261022-201015-4301",
+      "RecordedBy": "Sackpuncher-Sargeras"
+    }
+  ]
+}

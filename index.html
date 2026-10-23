@@ -5,7 +5,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Matches · FNF Arena Tracker</title>
 <meta name="description" content="2v2 arena games and stats from FNF Arena Tracker.">
-<meta name="fnf-version" content="a73d2f601f">
+<meta name="fnf-version" content="2425c66d68">
 <link rel="icon" href="favicon.ico">
 <link rel="stylesheet" href="site.css?v=6213ae622a">
 </head>
@@ -14,8 +14,8 @@
   <div class="wrap banner-row">
     <a class="logo" href="index.html"><img src="assets/logo.png" alt="FNF Arena Tracker"></a>
     <div class="record">
-      <span class="session"></span>
-      <span class="overall">No games yet</span>
+      <span class="session">Tonight: 0-1 &#183; streak L1</span>
+      <span class="overall">Season 0-1 (0%)</span>
     </div>
   </div>
   <nav class="wrap tabs"><a href="index.html" class="active" aria-current="page">Matches</a><a href="stats.html">Stats</a></nav>
@@ -29,11 +29,21 @@
     <button type="button" data-filter="l">Losses</button>
   </div>
   <input type="search" id="search" placeholder="Search comp, spec, player, map, tag…" aria-label="Search games">
-  <span class="count" id="count">0 game(s)</span>
-</div><p class="empty">No games yet.</p>
+  <span class="count" id="count">1 game(s)</span>
+</div><div class="table-scroll">
+<table class="matches sortable" id="matches">
+<thead><tr>
+  <th data-type="num" class="c">Night</th><th data-type="num" class="c">#</th><th data-type="num" class="c">Time</th>
+  <th class="c">W/L</th><th>Enemies</th><th>Our team</th><th>Map</th>
+  <th data-type="num" class="c">Rating</th><th data-type="num" class="c">+/-</th>
+  <th data-type="num" class="c">Their MMR</th><th data-type="num" class="c">DPS/HPS</th><th data-type="num" class="c">Length</th>
+</tr></thead>
+<tbody><tr data-result="l" data-search="mistweaver monk one-blackwinglair arms warrior pathetic-executus retribution paladin mistweaver monk empyrean domain"><td class="c" data-sort="639282967430000000">Thu 10/22</td><td class="c">1</td><td class="c" data-sort="727430000000">8:12 PM</td><td class="c result loss">L</td><td><div class="chip"><i style="background:#00FF98"></i><b style="color:#00FF98">Mistweaver Monk</b><a class="name" href="https://check-pvp.fr/us/Blackwing%20Lair/One" target="_blank" rel="noopener" title="Open on check-pvp.fr">One-BlackwingLair</a></div><div class="chip"><i style="background:#C69B6D"></i><b style="color:#C69B6D">Arms Warrior</b><a class="name" href="https://check-pvp.fr/us/Executus/Pathetic" target="_blank" rel="noopener" title="Open on check-pvp.fr">Pathetic-Executus</a></div></td><td class="ours"><div class="chip"><i style="background:#F48CBA"></i><b style="color:#F48CBA">Retribution Paladin</b></div><div class="chip"><i style="background:#00FF98"></i><b style="color:#00FF98">Mistweaver Monk</b></div></td><td>Empyrean Domain</td><td class="c">1962</td><td class="c win" data-sort="0">0</td><td class="c">0</td><td class="c" data-sort="-41.54"><div class="output" title="Damage: us 4.66M (64.7k/s), them 7.97M (110.7k/s)
+Healing: us 6.39M (88.8k/s), them 4.64M (64.5k/s)"><div class="gap"><span>DPS</span><b class="loss">-42%</b></div><div class="gap"><span>HPS</span><b class="win">+38%</b></div></div></td><td class="c" data-sort="72">1:12</td></tr>
+</tbody></table></div>
 </main>
 <footer class="wrap">
-  Updated Thu Oct 22, 2026 at 12:23 PM ·
+  Updated Thu Oct 22, 2026 at 8:12 PM ·
   made with <a href="https://github.com/Hooee71/FNFTracker">FNF Arena Tracker</a>
 </footer>
 <script src="site.js?v=b75080e6bc"></script>
