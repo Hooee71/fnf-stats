@@ -88,6 +88,7 @@ tbody tr:hover { background: rgba(255,255,255,.03); }
 .chip .name { font-size: 12px; color: rgba(216,218,224,.6); text-decoration: none; }
 .chip a.name:hover { color: var(--accent); text-decoration: underline; }
 .ours .chip b { font-weight: 400; }
+.damp { font-size: 12px; color: var(--dim); margin-top: 1px; }
 .tags { margin-top: 2px; }
 .tags span { font-size: 11px; color: var(--dim); background: rgba(255,255,255,.06); border-radius: 4px; padding: 1px 6px; margin-right: 4px; }
 .output { display: inline-block; text-align: left; cursor: help; }
