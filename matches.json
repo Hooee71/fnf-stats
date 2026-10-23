@@ -48,6 +48,102 @@
       "Source": "addon",
       "ExternalId": "Sackpuncher-Sargeras/20261022-201015-4301",
       "RecordedBy": "Sackpuncher-Sargeras"
+    },
+    {
+      "Id": "4809601d-d5a3-d676-5834-bee430b353c2",
+      "PlayedAt": "2026-10-22T20:16:58-04:00",
+      "Won": true,
+      "Map": "Enigma Crucible",
+      "OurTeam": [
+        {
+          "Class": "Paladin",
+          "Spec": "Retribution",
+          "Name": "Corpsehmper",
+          "Damage": 2406273,
+          "Healing": 1897825
+        },
+        {
+          "Class": "Monk",
+          "Spec": "Mistweaver",
+          "Name": "Sackpuncher",
+          "Damage": 794325,
+          "Healing": 3911580
+        }
+      ],
+      "Enemies": [
+        {
+          "Class": "Mage",
+          "Spec": "Fire",
+          "Name": "Seht-Nathrezim",
+          "Damage": 2969076,
+          "Healing": 1049128
+        },
+        {
+          "Class": "Rogue",
+          "Spec": "Subtlety",
+          "Name": "Ssolemn-Tichondrius",
+          "Damage": 2961942,
+          "Healing": 833439
+        }
+      ],
+      "RatingAfter": 1977,
+      "RatingChange": 15,
+      "DurationSeconds": 95,
+      "OurMmr": 0,
+      "EnemyMmr": 0,
+      "Tags": [],
+      "Notes": "",
+      "Source": "addon",
+      "ExternalId": "Sackpuncher-Sargeras/20261022-201427-3984",
+      "RecordedBy": "Sackpuncher-Sargeras"
+    },
+    {
+      "Id": "9572f59a-b96b-2b60-13b1-6cd83868ffc5",
+      "PlayedAt": "2026-10-22T20:24:36-04:00",
+      "Won": false,
+      "Map": "Dalaran Sewers",
+      "OurTeam": [
+        {
+          "Class": "Paladin",
+          "Spec": "Retribution",
+          "Name": "Corpsehmper",
+          "Damage": 10801030,
+          "Healing": 2937478
+        },
+        {
+          "Class": "Monk",
+          "Spec": "Mistweaver",
+          "Name": "Sackpuncher",
+          "Damage": 2083575,
+          "Healing": 8131259
+        }
+      ],
+      "Enemies": [
+        {
+          "Class": "Rogue",
+          "Spec": "Subtlety",
+          "Name": "Qutip-Gnomeregan",
+          "Damage": 11239115,
+          "Healing": 388948
+        },
+        {
+          "Class": "Shaman",
+          "Spec": "Restoration",
+          "Name": "Vanqtotem-Area52",
+          "Damage": 1259001,
+          "Healing": 12329705
+        }
+      ],
+      "RatingAfter": 1977,
+      "RatingChange": 0,
+      "DurationSeconds": 232,
+      "OurMmr": 0,
+      "EnemyMmr": 0,
+      "Tags": [],
+      "Notes": "",
+      "Source": "addon",
+      "ExternalId": "Sackpuncher-Sargeras/20261022-201952-8590",
+      "RecordedBy": "Sackpuncher-Sargeras"
     }
   ]
 }
