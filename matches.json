@@ -368,6 +368,54 @@
       "Source": "addon",
       "ExternalId": "Sackpuncher-Sargeras/20261022-210704-9260",
       "RecordedBy": "Sackpuncher-Sargeras"
+    },
+    {
+      "Id": "ae63d53a-7c6f-0b1a-f729-d504dde23e9d",
+      "PlayedAt": "2026-10-22T21:19:34-04:00",
+      "Won": false,
+      "Map": "Black Rook Hold Arena",
+      "OurTeam": [
+        {
+          "Class": "Monk",
+          "Spec": "Mistweaver",
+          "Name": "Sackpuncher",
+          "Damage": 1343438,
+          "Healing": 14222715
+        },
+        {
+          "Class": "Paladin",
+          "Spec": "Retribution",
+          "Name": "Corpsehmper",
+          "Damage": 11923449,
+          "Healing": 3437093
+        }
+      ],
+      "Enemies": [
+        {
+          "Class": "Priest",
+          "Spec": "Discipline",
+          "Name": "Zh\u00ECli\u00E1o-Tichondrius",
+          "Damage": 6720386,
+          "Healing": 11905036
+        },
+        {
+          "Class": "Rogue",
+          "Spec": "Assassination",
+          "Name": "Mengbao-Tichondrius",
+          "Damage": 13471439,
+          "Healing": 1557344
+        }
+      ],
+      "RatingAfter": 1949,
+      "RatingChange": -5,
+      "DurationSeconds": 308,
+      "OurMmr": 1988,
+      "EnemyMmr": 2166,
+      "Tags": [],
+      "Notes": "",
+      "Source": "addon",
+      "ExternalId": "Sackpuncher-Sargeras/20261022-211353-2050",
+      "RecordedBy": "Sackpuncher-Sargeras"
     }
   ]
 }
