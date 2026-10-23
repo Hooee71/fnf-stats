@@ -288,6 +288,54 @@
       "Source": "addon",
       "ExternalId": "Sackpuncher-/20261022-204922-5986",
       "RecordedBy": "Sackpuncher-"
+    },
+    {
+      "Id": "d24cdc55-3e38-3d58-8582-e0b457db0444",
+      "PlayedAt": "2026-10-22T21:02:50-04:00",
+      "Won": false,
+      "Map": "Maldraxxus Coliseum",
+      "OurTeam": [
+        {
+          "Class": "Paladin",
+          "Spec": "Retribution",
+          "Name": "Corpsehmper",
+          "Damage": 16261752,
+          "Healing": 2468320
+        },
+        {
+          "Class": "Monk",
+          "Spec": "Mistweaver",
+          "Name": "Sackpuncher",
+          "Damage": 2831897,
+          "Healing": 10525211
+        }
+      ],
+      "Enemies": [
+        {
+          "Class": "Paladin",
+          "Spec": "Retribution",
+          "Name": "Darnault-Stormrage",
+          "Damage": 12278254,
+          "Healing": 530843
+        },
+        {
+          "Class": "Evoker",
+          "Spec": "Preservation",
+          "Name": "Beardus\u00E5h-Tichondrius",
+          "Damage": 2248874,
+          "Healing": 18281738
+        }
+      ],
+      "RatingAfter": 1942,
+      "RatingChange": -10,
+      "DurationSeconds": 243,
+      "OurMmr": 0,
+      "EnemyMmr": 0,
+      "Tags": [],
+      "Notes": "",
+      "Source": "addon",
+      "ExternalId": "Sackpuncher-Sargeras/20261022-205747-4426",
+      "RecordedBy": "Sackpuncher-Sargeras"
     }
   ]
 }
