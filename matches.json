@@ -41,8 +41,6 @@
       "RatingAfter": 1962,
       "RatingChange": 0,
       "DurationSeconds": 72,
-      "OurMmr": 0,
-      "EnemyMmr": 0,
       "Tags": [],
       "Notes": "",
       "Source": "addon",
@@ -89,8 +87,6 @@
       "RatingAfter": 1977,
       "RatingChange": 15,
       "DurationSeconds": 95,
-      "OurMmr": 0,
-      "EnemyMmr": 0,
       "Tags": [],
       "Notes": "",
       "Source": "addon",
@@ -137,8 +133,6 @@
       "RatingAfter": 1977,
       "RatingChange": 0,
       "DurationSeconds": 232,
-      "OurMmr": 0,
-      "EnemyMmr": 0,
       "Tags": [],
       "Notes": "",
       "Source": "addon",
@@ -185,8 +179,6 @@
       "RatingAfter": 1970,
       "RatingChange": -7,
       "DurationSeconds": 187,
-      "OurMmr": 0,
-      "EnemyMmr": 0,
       "Tags": [],
       "Notes": "",
       "Source": "addon",
@@ -233,8 +225,6 @@
       "RatingAfter": 1961,
       "RatingChange": -9,
       "DurationSeconds": 226,
-      "OurMmr": 0,
-      "EnemyMmr": 0,
       "Tags": [],
       "Notes": "",
       "Source": "addon",
@@ -281,8 +271,6 @@
       "RatingAfter": 1952,
       "RatingChange": -9,
       "DurationSeconds": 303,
-      "OurMmr": 0,
-      "EnemyMmr": 0,
       "Tags": [],
       "Notes": "",
       "Source": "addon",
@@ -329,12 +317,56 @@
       "RatingAfter": 1942,
       "RatingChange": -10,
       "DurationSeconds": 243,
-      "OurMmr": 0,
-      "EnemyMmr": 0,
       "Tags": [],
       "Notes": "",
       "Source": "addon",
       "ExternalId": "Sackpuncher-Sargeras/20261022-205747-4426",
+      "RecordedBy": "Sackpuncher-Sargeras"
+    },
+    {
+      "Id": "4f79b0ef-f5e3-a8f3-1eaf-ba21d2a21346",
+      "PlayedAt": "2026-10-22T21:09:51-04:00",
+      "Won": true,
+      "Map": "Nokhudon Proving Grounds",
+      "OurTeam": [
+        {
+          "Class": "Paladin",
+          "Spec": "Retribution",
+          "Name": "Corpsehmper",
+          "Damage": 5774050,
+          "Healing": 1330916
+        },
+        {
+          "Class": "Monk",
+          "Spec": "Mistweaver",
+          "Name": "Sackpuncher",
+          "Damage": 1561242,
+          "Healing": 4953500
+        }
+      ],
+      "Enemies": [
+        {
+          "Class": "Death Knight",
+          "Spec": "Unholy",
+          "Name": "Patapome-Ragnaros",
+          "Damage": 5808390,
+          "Healing": 543740
+        },
+        {
+          "Class": "Druid",
+          "Spec": "Restoration",
+          "Name": "Tupi-Ragnaros",
+          "Damage": 543213,
+          "Healing": 4688885
+        }
+      ],
+      "RatingAfter": 1954,
+      "RatingChange": 12,
+      "DurationSeconds": 108,
+      "Tags": [],
+      "Notes": "",
+      "Source": "addon",
+      "ExternalId": "Sackpuncher-Sargeras/20261022-210704-9260",
       "RecordedBy": "Sackpuncher-Sargeras"
     }
   ]
