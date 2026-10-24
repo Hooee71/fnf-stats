@@ -660,6 +660,112 @@
       "Source": "addon",
       "ExternalId": "Sackpuncher-/20261022-215314-7061",
       "RecordedBy": "Sackpuncher-"
+    },
+    {
+      "Id": "4c3e91a5-99b5-31df-8d81-22df84fe1dae",
+      "PlayedAt": "2026-10-23T20:14:02-04:00",
+      "Won": false,
+      "Map": "Dalaran Sewers",
+      "OurTeam": [
+        {
+          "Class": "Priest",
+          "Spec": "Discipline",
+          "Name": "Balbgheels",
+          "Damage": 1133118,
+          "Healing": 4798430,
+          "Rating": 1720
+        },
+        {
+          "Class": "Hunter",
+          "Spec": "Beast Mastery",
+          "Name": "Jackbag",
+          "Damage": 1982679,
+          "Healing": 232274,
+          "Rating": 1720
+        }
+      ],
+      "Enemies": [
+        {
+          "Class": "Warlock",
+          "Spec": "Destruction",
+          "Name": "Beingofevil-Frostmourne",
+          "Damage": 4927336,
+          "Healing": 882500,
+          "Rating": 288
+        },
+        {
+          "Class": "Monk",
+          "Spec": "Mistweaver",
+          "Name": "Mitchnorris-Frostmourne",
+          "Damage": 2063762,
+          "Healing": 2432623,
+          "Rating": 864
+        }
+      ],
+      "RatingAfter": 1718,
+      "RatingChange": -2,
+      "DurationSeconds": 114,
+      "DampeningPct": 51,
+      "OurMmr": 1700,
+      "EnemyMmr": 2145,
+      "Tags": [],
+      "Notes": "",
+      "Source": "addon",
+      "ExternalId": "Jackbag-Sargeras/20261023-201109-1214",
+      "RecordedBy": "Jackbag-Sargeras"
+    },
+    {
+      "Id": "c878a972-1cd9-227d-16c1-b5036110a0c2",
+      "PlayedAt": "2026-10-23T20:22:11-04:00",
+      "Won": false,
+      "Map": "Maldraxxus Coliseum",
+      "OurTeam": [
+        {
+          "Class": "Priest",
+          "Spec": "Discipline",
+          "Name": "Balbgheels",
+          "Damage": 1400374,
+          "Healing": 7989156,
+          "Rating": 1718
+        },
+        {
+          "Class": "Hunter",
+          "Spec": "Beast Mastery",
+          "Name": "Jackbag",
+          "Damage": 4104485,
+          "Healing": 699161,
+          "Rating": 1718
+        }
+      ],
+      "Enemies": [
+        {
+          "Class": "Rogue",
+          "Spec": "Assassination",
+          "Name": "Assassen-AltarofStorms",
+          "Damage": 9211341,
+          "Healing": 405393,
+          "Rating": 1668
+        },
+        {
+          "Class": "Druid",
+          "Spec": "Restoration",
+          "Name": "Bombtree-AltarofStorms",
+          "Damage": 316776,
+          "Healing": 5086387,
+          "Rating": 1651
+        }
+      ],
+      "RatingAfter": 1705,
+      "RatingChange": -13,
+      "DurationSeconds": 228,
+      "DampeningPct": 63,
+      "OurMmr": 1693,
+      "EnemyMmr": 1679,
+      "Tags": [],
+      "Notes": "",
+      "Source": "addon",
+      "ExternalId": "Jackbag-Sargeras/20261023-201742-8161",
+      "RecordedBy": "Jackbag-Sargeras"
     }
   ]
 }
