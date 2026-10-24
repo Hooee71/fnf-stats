@@ -1236,6 +1236,270 @@
       "Source": "addon",
       "ExternalId": "Jackbag-Sargeras/20261023-211648-5327",
       "RecordedBy": "Jackbag-Sargeras"
+    },
+    {
+      "Id": "ab5ede3f-c3fa-6986-95ca-93e0b5aefb57",
+      "PlayedAt": "2026-10-23T21:32:21-04:00",
+      "Won": false,
+      "Map": "Black Rook Hold Arena",
+      "OurTeam": [
+        {
+          "Class": "Hunter",
+          "Spec": "Beast Mastery",
+          "Name": "Jackbag",
+          "Damage": 9589659,
+          "Healing": 1050911,
+          "Rating": 1784
+        },
+        {
+          "Class": "Priest",
+          "Spec": "Discipline",
+          "Name": "Balbgheels",
+          "Damage": 2117495,
+          "Healing": 9408196,
+          "Rating": 1784
+        }
+      ],
+      "Enemies": [
+        {
+          "Class": "Warlock",
+          "Spec": "Affliction",
+          "Name": "Demoloroids",
+          "Damage": 10177314,
+          "Healing": 1809558,
+          "Rating": 576
+        },
+        {
+          "Class": "Druid",
+          "Spec": "Restoration",
+          "Name": "Buffdruids-Dalaran",
+          "Damage": 1168146,
+          "Healing": 9888878,
+          "Rating": 1941
+        }
+      ],
+      "RatingAfter": 1784,
+      "RatingChange": 0,
+      "DurationSeconds": 167,
+      "DampeningPct": 57,
+      "OurMmr": 1918,
+      "EnemyMmr": 2104,
+      "Tags": [],
+      "Notes": "",
+      "Source": "addon",
+      "ExternalId": "Jackbag-Sargeras/20261023-212835-2204",
+      "RecordedBy": "Jackbag-Sargeras"
+    },
+    {
+      "Id": "bb5f9469-e996-2251-c9cb-7fefce0a3fda",
+      "PlayedAt": "2026-10-23T21:40:50-04:00",
+      "Won": false,
+      "Map": "Black Rook Hold Arena",
+      "OurTeam": [
+        {
+          "Class": "Hunter",
+          "Spec": "Beast Mastery",
+          "Name": "Jackbag",
+          "Damage": 10828125,
+          "Healing": 465966,
+          "Rating": 1784
+        },
+        {
+          "Class": "Priest",
+          "Spec": "Discipline",
+          "Name": "Balbgheels",
+          "Damage": 3086498,
+          "Healing": 13692316,
+          "Rating": 1784
+        }
+      ],
+      "Enemies": [
+        {
+          "Class": "Demon Hunter",
+          "Spec": "Havoc",
+          "Name": "Vororo-Area52",
+          "Damage": 14306845,
+          "Healing": 1276949,
+          "Rating": 768
+        },
+        {
+          "Class": "Druid",
+          "Spec": "Restoration",
+          "Name": "Roxlune-BleedingHollow",
+          "Damage": 1620502,
+          "Healing": 12539073,
+          "Rating": 1825
+        }
+      ],
+      "RatingAfter": 1779,
+      "RatingChange": -5,
+      "DurationSeconds": 252,
+      "DampeningPct": 66,
+      "OurMmr": 1895,
+      "EnemyMmr": 2021,
+      "Tags": [],
+      "Notes": "",
+      "Source": "addon",
+      "ExternalId": "Jackbag-Sargeras/20261023-213539-4619",
+      "RecordedBy": "Jackbag-Sargeras"
+    },
+    {
+      "Id": "1af57e73-a55d-6605-7a1c-456b9cd943de",
+      "PlayedAt": "2026-10-23T21:47:45-04:00",
+      "Won": false,
+      "Map": "Nagrand Arena",
+      "OurTeam": [
+        {
+          "Class": "Hunter",
+          "Spec": "Beast Mastery",
+          "Name": "Jackbag",
+          "Damage": 3412570,
+          "Healing": 314875,
+          "Rating": 1779
+        },
+        {
+          "Class": "Priest",
+          "Spec": "Discipline",
+          "Name": "Balbgheels",
+          "Damage": 834929,
+          "Healing": 3267731,
+          "Rating": 1779
+        }
+      ],
+      "Enemies": [
+        {
+          "Class": "Death Knight",
+          "Spec": "Unholy",
+          "Name": "Coltty-BloodFurnace",
+          "Damage": 3371205,
+          "Healing": 388630,
+          "Rating": 1633
+        },
+        {
+          "Class": "Priest",
+          "Spec": "Discipline",
+          "Name": "Slimmshadyy-Tichondrius",
+          "Damage": 1406889,
+          "Healing": 3895186,
+          "Rating": 1884
+        }
+      ],
+      "RatingAfter": 1771,
+      "RatingChange": -8,
+      "DurationSeconds": 82,
+      "DampeningPct": 48,
+      "OurMmr": 1864,
+      "EnemyMmr": 1889,
+      "Tags": [],
+      "Notes": "",
+      "Source": "addon",
+      "ExternalId": "Jackbag-Sargeras/20261023-214533-9280",
+      "RecordedBy": "Jackbag-Sargeras"
+    },
+    {
+      "Id": "04c9704d-1173-8c3e-18fe-520a172c825a",
+      "PlayedAt": "2026-10-23T21:51:58-04:00",
+      "Won": false,
+      "Map": "Dalaran Sewers",
+      "OurTeam": [
+        {
+          "Class": "Hunter",
+          "Spec": "Beast Mastery",
+          "Name": "Jackbag",
+          "Damage": 3347460,
+          "Healing": 502780,
+          "Rating": 1771
+        },
+        {
+          "Class": "Priest",
+          "Spec": "Discipline",
+          "Name": "Balbgheels",
+          "Damage": 635698,
+          "Healing": 3851375,
+          "Rating": 1771
+        }
+      ],
+      "Enemies": [
+        {
+          "Class": "Death Knight",
+          "Spec": "Frost",
+          "Name": "Andras-TheForgottenCoast",
+          "Damage": 5131071,
+          "Healing": 381917,
+          "Rating": 1239
+        },
+        {
+          "Class": "Shaman",
+          "Spec": "Restoration",
+          "Name": "Nick-Crushridge",
+          "Damage": 1466760,
+          "Healing": 3492116,
+          "Rating": 1553
+        }
+      ],
+      "RatingAfter": 1760,
+      "RatingChange": -11,
+      "DurationSeconds": 85,
+      "DampeningPct": 49,
+      "OurMmr": 1820,
+      "EnemyMmr": 1800,
+      "Tags": [],
+      "Notes": "",
+      "Source": "addon",
+      "ExternalId": "Jackbag-Sargeras/20261023-214933-4076",
+      "RecordedBy": "Jackbag-Sargeras"
+    },
+    {
+      "Id": "9961e5fd-8db4-dd84-dfab-283356b1dd25",
+      "PlayedAt": "2026-10-23T21:57:12-04:00",
+      "Won": true,
+      "Map": "Maldraxxus Coliseum",
+      "OurTeam": [
+        {
+          "Class": "Hunter",
+          "Spec": "Beast Mastery",
+          "Name": "Jackbag",
+          "Damage": 7711040,
+          "Healing": 574646,
+          "Rating": 1760
+        },
+        {
+          "Class": "Priest",
+          "Spec": "Discipline",
+          "Name": "Balbgheels",
+          "Damage": 1477638,
+          "Healing": 5399065,
+          "Rating": 1760
+        }
+      ],
+      "Enemies": [
+        {
+          "Class": "Hunter",
+          "Spec": "Beast Mastery",
+          "Name": "Tevlen-Warsong",
+          "Damage": 5604692,
+          "Healing": 771127,
+          "Rating": 1750
+        },
+        {
+          "Class": "Priest",
+          "Spec": "Holy",
+          "Name": "Brosideon-Tichondrius",
+          "Damage": 1040560,
+          "Healing": 7066052,
+          "Rating": 1705
+        }
+      ],
+      "RatingAfter": 1772,
+      "RatingChange": 12,
+      "DurationSeconds": 167,
+      "OurMmr": 1769,
+      "EnemyMmr": 1770,
+      "Tags": [],
+      "Notes": "",
+      "Source": "addon",
+      "ExternalId": "Jackbag-Sargeras/20261023-215325-1444",
+      "RecordedBy": "Jackbag-Sargeras"
     }
   ]
 }
