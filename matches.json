@@ -1500,6 +1500,59 @@
       "Source": "addon",
       "ExternalId": "Jackbag-Sargeras/20261023-215325-1444",
       "RecordedBy": "Jackbag-Sargeras"
+    },
+    {
+      "Id": "dc7c7e04-e8b4-6d7a-e8e9-d8c9757c79f9",
+      "PlayedAt": "2026-10-29T20:23:16-04:00",
+      "Won": false,
+      "Map": "Cage of Carnage",
+      "OurTeam": [
+        {
+          "Class": "Paladin",
+          "Spec": "Retribution",
+          "Name": "Corpsehmper",
+          "Damage": 11251789,
+          "Healing": 3000308,
+          "Rating": 1976
+        },
+        {
+          "Class": "Monk",
+          "Spec": "Mistweaver",
+          "Name": "Sackpuncher",
+          "Damage": 952506,
+          "Healing": 13446288,
+          "Rating": 1976
+        }
+      ],
+      "Enemies": [
+        {
+          "Class": "Monk",
+          "Spec": "Windwalker",
+          "Name": "Zexana-Gorefiend",
+          "Damage": 14542174,
+          "Healing": 576052,
+          "Rating": 1925
+        },
+        {
+          "Class": "Priest",
+          "Spec": "Discipline",
+          "Name": "Shadina-Gorefiend",
+          "Damage": 3969820,
+          "Healing": 11740569,
+          "Rating": 1925
+        }
+      ],
+      "RatingAfter": 1968,
+      "RatingChange": -8,
+      "DurationSeconds": 249,
+      "DampeningPct": 45,
+      "OurMmr": 2083,
+      "EnemyMmr": 2107,
+      "Tags": [],
+      "Notes": "",
+      "Source": "addon",
+      "ExternalId": "Sackpuncher-Sargeras/20261029-201807-1488",
+      "RecordedBy": "Sackpuncher-Sargeras"
     }
   ]
 }
