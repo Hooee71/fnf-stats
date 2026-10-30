@@ -1711,6 +1711,58 @@
       "Source": "addon",
       "ExternalId": "Sackpuncher-Sargeras/20261029-203851-2614",
       "RecordedBy": "Sackpuncher-Sargeras"
+    },
+    {
+      "Id": "91602e4e-0f37-2d64-b527-4ef17682d751",
+      "PlayedAt": "2026-10-29T20:47:14-04:00",
+      "Won": true,
+      "Map": "Cage of Carnage",
+      "OurTeam": [
+        {
+          "Class": "Paladin",
+          "Spec": "Retribution",
+          "Name": "Corpsehmper",
+          "Damage": 5986255,
+          "Healing": 1490396,
+          "Rating": 1963
+        },
+        {
+          "Class": "Monk",
+          "Spec": "Mistweaver",
+          "Name": "Sackpuncher",
+          "Damage": 1193405,
+          "Healing": 7205018,
+          "Rating": 1963
+        }
+      ],
+      "Enemies": [
+        {
+          "Class": "Death Knight",
+          "Spec": "Unholy",
+          "Name": "Tegredypulls-Tichondrius",
+          "Damage": 6050519,
+          "Healing": 1838477,
+          "Rating": 1339
+        },
+        {
+          "Class": "Priest",
+          "Spec": "Discipline",
+          "Name": "Sensualhealn-Illidan",
+          "Damage": 3017035,
+          "Healing": 4603062,
+          "Rating": 1870
+        }
+      ],
+      "RatingAfter": 1976,
+      "RatingChange": 13,
+      "DurationSeconds": 98,
+      "OurMmr": 1995,
+      "EnemyMmr": 2001,
+      "Tags": [],
+      "Notes": "",
+      "Source": "addon",
+      "ExternalId": "Sackpuncher-Sargeras/20261029-204437-7302",
+      "RecordedBy": "Sackpuncher-Sargeras"
     }
   ]
 }
