@@ -1972,6 +1972,59 @@
       "Source": "addon",
       "ExternalId": "Sackpuncher-Sargeras/20261029-211943-5080",
       "RecordedBy": "Sackpuncher-Sargeras"
+    },
+    {
+      "Id": "45066cf2-0d48-b29e-5228-5187a352935c",
+      "PlayedAt": "2026-10-29T21:31:46-04:00",
+      "Won": false,
+      "Map": "The Robodrome",
+      "OurTeam": [
+        {
+          "Class": "Paladin",
+          "Spec": "Retribution",
+          "Name": "Corpsehmper",
+          "Damage": 15201342,
+          "Healing": 2904808,
+          "Rating": 1989
+        },
+        {
+          "Class": "Monk",
+          "Spec": "Mistweaver",
+          "Name": "Sackpuncher",
+          "Damage": 2014889,
+          "Healing": 11194122,
+          "Rating": 1989
+        }
+      ],
+      "Enemies": [
+        {
+          "Class": "Death Knight",
+          "Spec": "Frost",
+          "Name": "Deatrox",
+          "Damage": 15015687,
+          "Healing": 615588,
+          "Rating": 1152
+        },
+        {
+          "Class": "Druid",
+          "Spec": "Restoration",
+          "Name": "Huuda-BleedingHollow",
+          "Damage": 1264411,
+          "Healing": 16719723,
+          "Rating": 1948
+        }
+      ],
+      "RatingAfter": 1979,
+      "RatingChange": -10,
+      "DurationSeconds": 222,
+      "DampeningPct": 62,
+      "OurMmr": 2041,
+      "EnemyMmr": 2038,
+      "Tags": [],
+      "Notes": "",
+      "Source": "addon",
+      "ExternalId": "Sackpuncher-Sargeras/20261029-212704-2549",
+      "RecordedBy": "Sackpuncher-Sargeras"
     }
   ]
 }
