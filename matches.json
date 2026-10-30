@@ -2025,6 +2025,58 @@
       "Source": "addon",
       "ExternalId": "Sackpuncher-Sargeras/20261029-212704-2549",
       "RecordedBy": "Sackpuncher-Sargeras"
+    },
+    {
+      "Id": "2763440d-a2d9-8ed9-248d-ad4d4938bdc6",
+      "PlayedAt": "2026-10-29T21:38:55-04:00",
+      "Won": true,
+      "Map": "Ashamane\u0027s Fall",
+      "OurTeam": [
+        {
+          "Class": "Paladin",
+          "Spec": "Retribution",
+          "Name": "Corpsehmper",
+          "Damage": 8550633,
+          "Healing": 1738631,
+          "Rating": 1979
+        },
+        {
+          "Class": "Monk",
+          "Spec": "Mistweaver",
+          "Name": "Sackpuncher",
+          "Damage": 1402474,
+          "Healing": 8753445,
+          "Rating": 1979
+        }
+      ],
+      "Enemies": [
+        {
+          "Class": "Rogue",
+          "Spec": "Assassination",
+          "Name": "Gunxblade-Tichondrius",
+          "Damage": 7592837,
+          "Healing": 1295628,
+          "Rating": 1961
+        },
+        {
+          "Class": "Priest",
+          "Spec": "Discipline",
+          "Name": "Rythion-Tichondrius",
+          "Damage": 3528373,
+          "Healing": 7151742,
+          "Rating": 2156
+        }
+      ],
+      "RatingAfter": 1992,
+      "RatingChange": 13,
+      "DurationSeconds": 160,
+      "OurMmr": 1993,
+      "EnemyMmr": 2004,
+      "Tags": [],
+      "Notes": "",
+      "Source": "addon",
+      "ExternalId": "Sackpuncher-Sargeras/20261029-213518-5037",
+      "RecordedBy": "Sackpuncher-Sargeras"
     }
   ]
 }
