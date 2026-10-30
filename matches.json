@@ -2077,6 +2077,58 @@
       "Source": "addon",
       "ExternalId": "Sackpuncher-Sargeras/20261029-213518-5037",
       "RecordedBy": "Sackpuncher-Sargeras"
+    },
+    {
+      "Id": "eb8cb5ee-2fd1-b06f-ef70-997c643c1982",
+      "PlayedAt": "2026-10-29T21:49:54-04:00",
+      "Won": true,
+      "Map": "Empyrean Domain",
+      "OurTeam": [
+        {
+          "Class": "Paladin",
+          "Spec": "Retribution",
+          "Name": "Corpsehmper",
+          "Damage": 17878632,
+          "Healing": 2515787,
+          "Rating": 1992
+        },
+        {
+          "Class": "Monk",
+          "Spec": "Mistweaver",
+          "Name": "Sackpuncher",
+          "Damage": 2739395,
+          "Healing": 15166474,
+          "Rating": 1992
+        }
+      ],
+      "Enemies": [
+        {
+          "Class": "Mage",
+          "Spec": "Frost",
+          "Name": "Aledook-Tichondrius",
+          "Damage": 17264800,
+          "Healing": 1209990,
+          "Rating": 1643
+        },
+        {
+          "Class": "Paladin",
+          "Spec": "Holy",
+          "Name": "Leathers-BleedingHollow",
+          "Damage": 2183007,
+          "Healing": 19347164,
+          "Rating": 1907
+        }
+      ],
+      "RatingAfter": 2006,
+      "RatingChange": 14,
+      "DurationSeconds": 382,
+      "OurMmr": 2043,
+      "EnemyMmr": 2042,
+      "Tags": [],
+      "Notes": "",
+      "Source": "addon",
+      "ExternalId": "Sackpuncher-Sargeras/20261029-214232-6388",
+      "RecordedBy": "Sackpuncher-Sargeras"
     }
   ]
 }
