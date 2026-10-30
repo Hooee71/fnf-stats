@@ -1606,6 +1606,111 @@
       "Source": "addon",
       "ExternalId": "Sackpuncher-Sargeras/20261029-202812-4788",
       "RecordedBy": "Sackpuncher-Sargeras"
+    },
+    {
+      "Id": "7f8381b8-6b4f-6aeb-ea10-e1dc8f9b51a5",
+      "PlayedAt": "2026-10-29T20:36:58-04:00",
+      "Won": true,
+      "Map": "Ashamane\u0027s Fall",
+      "OurTeam": [
+        {
+          "Class": "Paladin",
+          "Spec": "Retribution",
+          "Name": "Corpsehmper",
+          "Damage": 4362232,
+          "Healing": 437785,
+          "Rating": 1959
+        },
+        {
+          "Class": "Monk",
+          "Spec": "Mistweaver",
+          "Name": "Sackpuncher",
+          "Damage": 813455,
+          "Healing": 3458111,
+          "Rating": 1959
+        }
+      ],
+      "Enemies": [
+        {
+          "Class": "Rogue",
+          "Spec": "Subtlety",
+          "Name": "Txbxm-Blade\u0027sEdge",
+          "Damage": 2055541,
+          "Healing": 1332350,
+          "Rating": 1895
+        },
+        {
+          "Class": "Rogue",
+          "Spec": "Subtlety",
+          "Name": "Senpiakush-Tichondrius",
+          "Damage": 1835612,
+          "Healing": 1464130,
+          "Rating": 2100
+        }
+      ],
+      "RatingAfter": 1973,
+      "RatingChange": 14,
+      "DurationSeconds": 138,
+      "OurMmr": 1992,
+      "EnemyMmr": 2004,
+      "Tags": [],
+      "Notes": "",
+      "Source": "addon",
+      "ExternalId": "Sackpuncher-Sargeras/20261029-203343-1107",
+      "RecordedBy": "Sackpuncher-Sargeras"
+    },
+    {
+      "Id": "876cbaa1-0f6d-071f-2621-00abf1ad2030",
+      "PlayedAt": "2026-10-29T20:42:11-04:00",
+      "Won": false,
+      "Map": "Cage of Carnage",
+      "OurTeam": [
+        {
+          "Class": "Paladin",
+          "Spec": "Retribution",
+          "Name": "Corpsehmper",
+          "Damage": 7134637,
+          "Healing": 2219609,
+          "Rating": 1973
+        },
+        {
+          "Class": "Monk",
+          "Spec": "Mistweaver",
+          "Name": "Sackpuncher",
+          "Damage": 468605,
+          "Healing": 6968373,
+          "Rating": 1973
+        }
+      ],
+      "Enemies": [
+        {
+          "Class": "Warrior",
+          "Spec": "Arms",
+          "Name": "Ateva",
+          "Damage": 9158391,
+          "Healing": 1509479,
+          "Rating": 1735
+        },
+        {
+          "Class": "Priest",
+          "Spec": "Discipline",
+          "Name": "Bubbelsr-Area52",
+          "Damage": 2246589,
+          "Healing": 6044351,
+          "Rating": 1659
+        }
+      ],
+      "RatingAfter": 1963,
+      "RatingChange": -10,
+      "DurationSeconds": 143,
+      "DampeningPct": 35,
+      "OurMmr": 2042,
+      "EnemyMmr": 2044,
+      "Tags": [],
+      "Notes": "",
+      "Source": "addon",
+      "ExternalId": "Sackpuncher-Sargeras/20261029-203851-2614",
+      "RecordedBy": "Sackpuncher-Sargeras"
     }
   ]
 }
