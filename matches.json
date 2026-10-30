@@ -1553,6 +1553,59 @@
       "Source": "addon",
       "ExternalId": "Sackpuncher-Sargeras/20261029-201807-1488",
       "RecordedBy": "Sackpuncher-Sargeras"
+    },
+    {
+      "Id": "5570d7ad-3f2f-42ba-bd51-e82773e4b34b",
+      "PlayedAt": "2026-10-29T20:31:13-04:00",
+      "Won": false,
+      "Map": "Maldraxxus Coliseum",
+      "OurTeam": [
+        {
+          "Class": "Paladin",
+          "Spec": "Retribution",
+          "Name": "Corpsehmper",
+          "Damage": 8640909,
+          "Healing": 2859698,
+          "Rating": 1968
+        },
+        {
+          "Class": "Monk",
+          "Spec": "Mistweaver",
+          "Name": "Sackpuncher",
+          "Damage": 776572,
+          "Healing": 8790392,
+          "Rating": 1968
+        }
+      ],
+      "Enemies": [
+        {
+          "Class": "Warrior",
+          "Spec": "Arms",
+          "Name": "Ateva",
+          "Damage": 10587708,
+          "Healing": 1342918,
+          "Rating": 1714
+        },
+        {
+          "Class": "Priest",
+          "Spec": "Discipline",
+          "Name": "Bubbelsr-Area52",
+          "Damage": 3296405,
+          "Healing": 8028429,
+          "Rating": 1637
+        }
+      ],
+      "RatingAfter": 1959,
+      "RatingChange": -9,
+      "DurationSeconds": 158,
+      "DampeningPct": 36,
+      "OurMmr": 2039,
+      "EnemyMmr": 2049,
+      "Tags": [],
+      "Notes": "",
+      "Source": "addon",
+      "ExternalId": "Sackpuncher-Sargeras/20261029-202812-4788",
+      "RecordedBy": "Sackpuncher-Sargeras"
     }
   ]
 }
