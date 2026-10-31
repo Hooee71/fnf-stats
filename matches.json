@@ -2864,6 +2864,111 @@
       "Source": "addon",
       "ExternalId": "Jackbag-Sargeras/20261030-213518-9821",
       "RecordedBy": "Jackbag-Sargeras"
+    },
+    {
+      "Id": "2170726a-b596-5bf4-8028-70750f9756fc",
+      "PlayedAt": "2026-10-30T21:45:37-04:00",
+      "Won": false,
+      "Map": "Nokhudon Proving Grounds",
+      "OurTeam": [
+        {
+          "Class": "Hunter",
+          "Spec": "Beast Mastery",
+          "Name": "Jackbag",
+          "Damage": 3721511,
+          "Healing": 337247,
+          "Rating": 1795
+        },
+        {
+          "Class": "Priest",
+          "Spec": "Discipline",
+          "Name": "Balbgheels",
+          "Damage": 1248225,
+          "Healing": 5387097,
+          "Rating": 1795
+        }
+      ],
+      "Enemies": [
+        {
+          "Class": "Shaman",
+          "Spec": "Elemental",
+          "Name": "Bilo-Area52",
+          "Damage": 4866848,
+          "Healing": 532762,
+          "Rating": 576
+        },
+        {
+          "Class": "Evoker",
+          "Spec": "Preservation",
+          "Name": "Macdrag-Mal\u0027Ganis",
+          "Damage": 2052592,
+          "Healing": 4219068,
+          "Rating": 1144
+        }
+      ],
+      "RatingAfter": 1789,
+      "RatingChange": -6,
+      "DurationSeconds": 107,
+      "DampeningPct": 51,
+      "OurMmr": 1836,
+      "EnemyMmr": 2002,
+      "Tags": [],
+      "Notes": "",
+      "Source": "addon",
+      "ExternalId": "Jackbag-Sargeras/20261030-214255-4328",
+      "RecordedBy": "Jackbag-Sargeras"
+    },
+    {
+      "Id": "8718ac5d-4a1c-18cc-8173-fe08e8be2af3",
+      "PlayedAt": "2026-10-30T21:51:39-04:00",
+      "Won": true,
+      "Map": "Black Rook Hold Arena",
+      "OurTeam": [
+        {
+          "Class": "Hunter",
+          "Spec": "Marksmanship",
+          "Name": "Jackbag",
+          "Damage": 11105721,
+          "Healing": 853600,
+          "Rating": 1789
+        },
+        {
+          "Class": "Priest",
+          "Spec": "Discipline",
+          "Name": "Balbgheels",
+          "Damage": 2992249,
+          "Healing": 5925449,
+          "Rating": 1789
+        }
+      ],
+      "Enemies": [
+        {
+          "Class": "Mage",
+          "Spec": "Fire",
+          "Name": "Kaladn-Shandris",
+          "Damage": 5317910,
+          "Healing": 961281,
+          "Rating": 959
+        },
+        {
+          "Class": "Shaman",
+          "Spec": "Restoration",
+          "Name": "Po\u00E7kets-Shandris",
+          "Damage": 1423791,
+          "Healing": 11757690,
+          "Rating": 1747
+        }
+      ],
+      "RatingAfter": 1802,
+      "RatingChange": 13,
+      "DurationSeconds": 226,
+      "OurMmr": 1811,
+      "EnemyMmr": 1811,
+      "Tags": [],
+      "Notes": "",
+      "Source": "addon",
+      "ExternalId": "Jackbag-Sargeras/20261030-214653-2211",
+      "RecordedBy": "Jackbag-Sargeras"
     }
   ]
 }
