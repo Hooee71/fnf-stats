@@ -4384,6 +4384,59 @@
       "Source": "addon",
       "ExternalId": "Jackbag-Sargeras/20261106-215140-9650",
       "RecordedBy": "Jackbag-Sargeras"
+    },
+    {
+      "Id": "16cfe92c-6957-d6d7-606b-fe6a4682d0d8",
+      "PlayedAt": "2026-11-06T22:01:16-05:00",
+      "Won": false,
+      "Map": "Enigma Crucible",
+      "OurTeam": [
+        {
+          "Class": "Hunter",
+          "Spec": "Beast Mastery",
+          "Name": "Jackbag",
+          "Damage": 6163680,
+          "Healing": 262883,
+          "Rating": 1846
+        },
+        {
+          "Class": "Priest",
+          "Spec": "Discipline",
+          "Name": "Balbgheels",
+          "Damage": 1691484,
+          "Healing": 5594374,
+          "Rating": 1846
+        }
+      ],
+      "Enemies": [
+        {
+          "Class": "Demon Hunter",
+          "Spec": "Havoc",
+          "Name": "Azymondias-Frostwolf",
+          "Damage": 5390843,
+          "Healing": 1034850,
+          "Rating": 1597
+        },
+        {
+          "Class": "Monk",
+          "Spec": "Mistweaver",
+          "Name": "Tiio-BleedingHollow",
+          "Damage": 1605268,
+          "Healing": 6901434,
+          "Rating": 1980
+        }
+      ],
+      "RatingAfter": 1835,
+      "RatingChange": -11,
+      "DurationSeconds": 147,
+      "DampeningPct": 55,
+      "OurMmr": 1920,
+      "EnemyMmr": 1887,
+      "Tags": [],
+      "Notes": "",
+      "Source": "addon",
+      "ExternalId": "Jackbag-Sargeras/20261106-215830-7455",
+      "RecordedBy": "Jackbag-Sargeras"
     }
   ]
 }
