@@ -5014,6 +5014,59 @@
       "Source": "addon",
       "ExternalId": "Sackpuncher-Sargeras/20261112-214116-5122",
       "RecordedBy": "Sackpuncher-Sargeras"
+    },
+    {
+      "Id": "383ca079-4bcc-8a73-ac06-19f024aa5693",
+      "PlayedAt": "2026-11-12T21:51:02-05:00",
+      "Won": false,
+      "Map": "Cage of Carnage",
+      "OurTeam": [
+        {
+          "Class": "Paladin",
+          "Spec": "Retribution",
+          "Name": "Corpsehmper",
+          "Damage": 11712198,
+          "Healing": 2861298,
+          "Rating": 2015
+        },
+        {
+          "Class": "Monk",
+          "Spec": "Mistweaver",
+          "Name": "Sackpuncher",
+          "Damage": 2391386,
+          "Healing": 10303206,
+          "Rating": 2015
+        }
+      ],
+      "Enemies": [
+        {
+          "Class": "Warrior",
+          "Spec": "Arms",
+          "Name": "Hoodrch-Azralon",
+          "Damage": 12442539,
+          "Healing": 472377,
+          "Rating": 1541
+        },
+        {
+          "Class": "Evoker",
+          "Spec": "Preservation",
+          "Name": "Montyrax-Stormrage",
+          "Damage": 2904423,
+          "Healing": 13492940,
+          "Rating": 1541
+        }
+      ],
+      "RatingAfter": 2001,
+      "RatingChange": -14,
+      "DurationSeconds": 218,
+      "DampeningPct": 62,
+      "OurMmr": 1992,
+      "EnemyMmr": 1961,
+      "Tags": [],
+      "Notes": "",
+      "Source": "addon",
+      "ExternalId": "Sackpuncher-Sargeras/20261112-214625-3204",
+      "RecordedBy": "Sackpuncher-Sargeras"
     }
   ]
 }
