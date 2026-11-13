@@ -4909,6 +4909,111 @@
       "Source": "addon",
       "ExternalId": "Sackpuncher-Sargeras/20261112-212754-5758",
       "RecordedBy": "Sackpuncher-Sargeras"
+    },
+    {
+      "Id": "c8f6d0dd-0b77-40c9-0d5c-cba577fb9a24",
+      "PlayedAt": "2026-11-12T21:39:42-05:00",
+      "Won": true,
+      "Map": "Dalaran Sewers",
+      "OurTeam": [
+        {
+          "Class": "Monk",
+          "Spec": "Mistweaver",
+          "Name": "Sackpuncher",
+          "Damage": 1406020,
+          "Healing": 9412623,
+          "Rating": 2013
+        },
+        {
+          "Class": "Paladin",
+          "Spec": "Retribution",
+          "Name": "Corpsehmper",
+          "Damage": 8093676,
+          "Healing": 2496465,
+          "Rating": 2013
+        }
+      ],
+      "Enemies": [
+        {
+          "Class": "Warlock",
+          "Spec": "Affliction",
+          "Name": "Impbiscuit-Stormrage",
+          "Damage": 10308922,
+          "Healing": 2329289,
+          "Rating": 864
+        },
+        {
+          "Class": "Priest",
+          "Spec": "Holy",
+          "Name": "Jrawk-Stormrage",
+          "Damage": 1497593,
+          "Healing": 6302300,
+          "Rating": 1652
+        }
+      ],
+      "RatingAfter": 2027,
+      "RatingChange": 14,
+      "DurationSeconds": 157,
+      "OurMmr": 1976,
+      "EnemyMmr": 2075,
+      "Tags": [],
+      "Notes": "",
+      "Source": "addon",
+      "ExternalId": "Sackpuncher-Sargeras/20261112-213611-1602",
+      "RecordedBy": "Sackpuncher-Sargeras"
+    },
+    {
+      "Id": "9f643ae5-a5d6-6fef-20de-ff41a79fa666",
+      "PlayedAt": "2026-11-12T21:44:33-05:00",
+      "Won": false,
+      "Map": "Black Rook Hold Arena",
+      "OurTeam": [
+        {
+          "Class": "Paladin",
+          "Spec": "Retribution",
+          "Name": "Corpsehmper",
+          "Damage": 8179801,
+          "Healing": 2092895,
+          "Rating": 2027
+        },
+        {
+          "Class": "Monk",
+          "Spec": "Mistweaver",
+          "Name": "Sackpuncher",
+          "Damage": 1381482,
+          "Healing": 6791557,
+          "Rating": 2027
+        }
+      ],
+      "Enemies": [
+        {
+          "Class": "Warrior",
+          "Spec": "Arms",
+          "Name": "Foonat-Mal\u0027Ganis",
+          "Damage": 10569923,
+          "Healing": 1258035,
+          "Rating": 2071
+        },
+        {
+          "Class": "Priest",
+          "Spec": "Holy",
+          "Name": "Psilocybe-Lightning\u0027sBlade",
+          "Damage": 495703,
+          "Healing": 8544092,
+          "Rating": 1554
+        }
+      ],
+      "RatingAfter": 2015,
+      "RatingChange": -12,
+      "DurationSeconds": 137,
+      "DampeningPct": 54,
+      "OurMmr": 2040,
+      "EnemyMmr": 2039,
+      "Tags": [],
+      "Notes": "",
+      "Source": "addon",
+      "ExternalId": "Sackpuncher-Sargeras/20261112-214116-5122",
+      "RecordedBy": "Sackpuncher-Sargeras"
     }
   ]
 }
