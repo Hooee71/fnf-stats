@@ -4437,6 +4437,425 @@
       "Source": "addon",
       "ExternalId": "Jackbag-Sargeras/20261106-215830-7455",
       "RecordedBy": "Jackbag-Sargeras"
+    },
+    {
+      "Id": "4ea8cb3a-f6f9-843a-cfb5-659f6be15f1e",
+      "PlayedAt": "2026-11-12T20:19:33-05:00",
+      "Won": false,
+      "Map": "Ashamane\u0027s Fall",
+      "OurTeam": [
+        {
+          "Class": "Paladin",
+          "Spec": "Retribution",
+          "Name": "Corpsehmper",
+          "Damage": 13646807,
+          "Healing": 3750620,
+          "Rating": 2029
+        },
+        {
+          "Class": "Monk",
+          "Spec": "Mistweaver",
+          "Name": "Sackpuncher",
+          "Damage": 2736916,
+          "Healing": 11663095,
+          "Rating": 2029
+        }
+      ],
+      "Enemies": [
+        {
+          "Class": "Mage",
+          "Spec": "Frost",
+          "Name": "Bananappeal-Kel\u0027Thuzad",
+          "Damage": 16031788,
+          "Healing": 1155059,
+          "Rating": 2009
+        },
+        {
+          "Class": "Druid",
+          "Spec": "Restoration",
+          "Name": "Idsukdua-Kel\u0027Thuzad",
+          "Damage": 1306376,
+          "Healing": 14443007,
+          "Rating": 2009
+        }
+      ],
+      "RatingAfter": 2020,
+      "RatingChange": -9,
+      "DurationSeconds": 321,
+      "OurMmr": 2109,
+      "EnemyMmr": 2127,
+      "Tags": [],
+      "Notes": "",
+      "Source": "addon",
+      "ExternalId": "Sackpuncher-Sargeras/20261112-201316-9886",
+      "RecordedBy": "Sackpuncher-Sargeras"
+    },
+    {
+      "Id": "148cbe60-e702-cee1-bcfc-484b68101549",
+      "PlayedAt": "2026-11-12T20:31:37-05:00",
+      "Won": true,
+      "Map": "Enigma Crucible",
+      "OurTeam": [
+        {
+          "Class": "Monk",
+          "Spec": "Mistweaver",
+          "Name": "Sackpuncher",
+          "Damage": 1060917,
+          "Healing": 10864203,
+          "Rating": 2020
+        },
+        {
+          "Class": "Paladin",
+          "Spec": "Retribution",
+          "Name": "Corpsehmper",
+          "Damage": 10173488,
+          "Healing": 3344623,
+          "Rating": 2020
+        }
+      ],
+      "Enemies": [
+        {
+          "Class": "Priest",
+          "Spec": "Discipline",
+          "Name": "Dermatologic-Arthas",
+          "Damage": 2971682,
+          "Healing": 8931496,
+          "Rating": 2005
+        },
+        {
+          "Class": "Hunter",
+          "Spec": "Marksmanship",
+          "Name": "Roninshoot-Arthas",
+          "Damage": 11645702,
+          "Healing": 908930,
+          "Rating": 1981
+        }
+      ],
+      "RatingAfter": 2032,
+      "RatingChange": 12,
+      "DurationSeconds": 240,
+      "OurMmr": 2063,
+      "EnemyMmr": 2025,
+      "Tags": [],
+      "Notes": "",
+      "Source": "addon",
+      "ExternalId": "Sackpuncher-Sargeras/20261112-202651-6432",
+      "RecordedBy": "Sackpuncher-Sargeras"
+    },
+    {
+      "Id": "0a685987-a4a0-8aa5-ce1f-07b258e96dbf",
+      "PlayedAt": "2026-11-12T20:44:14-05:00",
+      "Won": false,
+      "Map": "Cage of Carnage",
+      "OurTeam": [
+        {
+          "Class": "Paladin",
+          "Spec": "Retribution",
+          "Name": "Corpsehmper",
+          "Damage": 16483424,
+          "Healing": 3312142,
+          "Rating": 2032
+        },
+        {
+          "Class": "Monk",
+          "Spec": "Mistweaver",
+          "Name": "Sackpuncher",
+          "Damage": 2469777,
+          "Healing": 16510234,
+          "Rating": 2032
+        }
+      ],
+      "Enemies": [
+        {
+          "Class": "Paladin",
+          "Spec": "Retribution",
+          "Name": "Jortjohnson",
+          "Damage": 18407761,
+          "Healing": 3629776,
+          "Rating": 1941
+        },
+        {
+          "Class": "Shaman",
+          "Spec": "Restoration",
+          "Name": "Synapqt-Tichondrius",
+          "Damage": 3602294,
+          "Healing": 14964558,
+          "Rating": 1998
+        }
+      ],
+      "RatingAfter": 2024,
+      "RatingChange": -8,
+      "DurationSeconds": 306,
+      "DampeningPct": 70,
+      "OurMmr": 2106,
+      "EnemyMmr": 2143,
+      "Tags": [],
+      "Notes": "",
+      "Source": "addon",
+      "ExternalId": "Sackpuncher-Sargeras/20261112-203808-8143",
+      "RecordedBy": "Sackpuncher-Sargeras"
+    },
+    {
+      "Id": "9925e62e-79c6-d0a2-5ce1-630de5996ad0",
+      "PlayedAt": "2026-11-12T20:49:50-05:00",
+      "Won": true,
+      "Map": "Nagrand Arena",
+      "OurTeam": [
+        {
+          "Class": "Paladin",
+          "Spec": "Retribution",
+          "Name": "Corpsehmper",
+          "Damage": 8496426,
+          "Healing": 2845533,
+          "Rating": 2024
+        },
+        {
+          "Class": "Monk",
+          "Spec": "Mistweaver",
+          "Name": "Sackpuncher",
+          "Damage": 1684899,
+          "Healing": 8046101,
+          "Rating": 2024
+        }
+      ],
+      "Enemies": [
+        {
+          "Class": "Demon Hunter",
+          "Spec": "Devourer",
+          "Name": "J\u00E5k\u00EB-Shandris",
+          "Damage": 9818749,
+          "Healing": 2046193,
+          "Rating": 1838
+        },
+        {
+          "Class": "Monk",
+          "Spec": "Mistweaver",
+          "Name": "Zullarian-Darkspear",
+          "Damage": 1082328,
+          "Healing": 6025788,
+          "Rating": 1963
+        }
+      ],
+      "RatingAfter": 2038,
+      "RatingChange": 14,
+      "DurationSeconds": 157,
+      "OurMmr": 2063,
+      "EnemyMmr": 2081,
+      "Tags": [],
+      "Notes": "",
+      "Source": "addon",
+      "ExternalId": "Sackpuncher-Sargeras/20261112-204636-3611",
+      "RecordedBy": "Sackpuncher-Sargeras"
+    },
+    {
+      "Id": "73d55e80-b426-7343-02d6-5011744f4332",
+      "PlayedAt": "2026-11-12T21:01:58-05:00",
+      "Won": false,
+      "Map": "Maldraxxus Coliseum",
+      "OurTeam": [
+        {
+          "Class": "Paladin",
+          "Spec": "Retribution",
+          "Name": "Corpsehmper",
+          "Damage": 5646910,
+          "Healing": 3623693,
+          "Rating": 2038
+        },
+        {
+          "Class": "Monk",
+          "Spec": "Mistweaver",
+          "Name": "Sackpuncher",
+          "Damage": 1045016,
+          "Healing": 6178451,
+          "Rating": 2038
+        }
+      ],
+      "Enemies": [
+        {
+          "Class": "Monk",
+          "Spec": "Mistweaver",
+          "Name": "Poincar\u00E9-Azralon",
+          "Damage": 1556721,
+          "Healing": 5995057,
+          "Rating": 2145
+        },
+        {
+          "Class": "Mage",
+          "Spec": "Frost",
+          "Name": "Sagatarr-Stormrage",
+          "Damage": 9811130,
+          "Healing": 725645,
+          "Rating": 2122
+        }
+      ],
+      "RatingAfter": 2029,
+      "RatingChange": -9,
+      "DurationSeconds": 150,
+      "OurMmr": 2114,
+      "EnemyMmr": 2134,
+      "Tags": [],
+      "Notes": "",
+      "Source": "addon",
+      "ExternalId": "Sackpuncher-Sargeras/20261112-205829-6307",
+      "RecordedBy": "Sackpuncher-Sargeras"
+    },
+    {
+      "Id": "d728ee31-7150-f631-e11f-5b029b5769ba",
+      "PlayedAt": "2026-11-12T21:11:40-05:00",
+      "Won": false,
+      "Map": "The Tiger\u0027s Peak",
+      "OurTeam": [
+        {
+          "Class": "Paladin",
+          "Spec": "Retribution",
+          "Name": "Corpsehmper",
+          "Damage": 9669861,
+          "Healing": 4276322,
+          "Rating": 2029
+        },
+        {
+          "Class": "Monk",
+          "Spec": "Mistweaver",
+          "Name": "Sackpuncher",
+          "Damage": 1159865,
+          "Healing": 7780774,
+          "Rating": 2029
+        }
+      ],
+      "Enemies": [
+        {
+          "Class": "Paladin",
+          "Spec": "Retribution",
+          "Name": "Gah-Kel\u0027Thuzad",
+          "Damage": 10213201,
+          "Healing": 1661629,
+          "Rating": 1755
+        },
+        {
+          "Class": "Monk",
+          "Spec": "Mistweaver",
+          "Name": "Monkkek-Kel\u0027Thuzad",
+          "Damage": 3998839,
+          "Healing": 9158409,
+          "Rating": 1624
+        }
+      ],
+      "RatingAfter": 2018,
+      "RatingChange": -11,
+      "DurationSeconds": 178,
+      "DampeningPct": 58,
+      "OurMmr": 2069,
+      "EnemyMmr": 2048,
+      "Tags": [],
+      "Notes": "",
+      "Source": "addon",
+      "ExternalId": "Sackpuncher-Sargeras/20261112-210755-2155",
+      "RecordedBy": "Sackpuncher-Sargeras"
+    },
+    {
+      "Id": "cc43a4bf-79c8-9aa2-491e-176ca408d63b",
+      "PlayedAt": "2026-11-12T21:20:18-05:00",
+      "Won": true,
+      "Map": "Enigma Crucible",
+      "OurTeam": [
+        {
+          "Class": "Monk",
+          "Spec": "Mistweaver",
+          "Name": "Sackpuncher",
+          "Damage": 2252229,
+          "Healing": 12251891,
+          "Rating": 2018
+        },
+        {
+          "Class": "Paladin",
+          "Spec": "Retribution",
+          "Name": "Corpsehmper",
+          "Damage": 16125709,
+          "Healing": 2440769,
+          "Rating": 2018
+        }
+      ],
+      "Enemies": [
+        {
+          "Class": "Warrior",
+          "Spec": "Arms",
+          "Name": "Stonedhart-Tichondrius",
+          "Damage": 13588529,
+          "Healing": 2625589,
+          "Rating": 768
+        },
+        {
+          "Class": "Shaman",
+          "Spec": "Restoration",
+          "Name": "Stronghpoint-BleedingHollow",
+          "Damage": 1501492,
+          "Healing": 13812163,
+          "Rating": 768
+        }
+      ],
+      "RatingAfter": 2036,
+      "RatingChange": 18,
+      "DurationSeconds": 271,
+      "OurMmr": 2018,
+      "EnemyMmr": 2196,
+      "Tags": [],
+      "Notes": "",
+      "Source": "addon",
+      "ExternalId": "Sackpuncher-Sargeras/20261112-211449-5961",
+      "RecordedBy": "Sackpuncher-Sargeras"
+    },
+    {
+      "Id": "8d37fad0-e1ab-8838-155b-82be5c04e6b5",
+      "PlayedAt": "2026-11-12T21:26:08-05:00",
+      "Won": false,
+      "Map": "Empyrean Domain",
+      "OurTeam": [
+        {
+          "Class": "Paladin",
+          "Spec": "Retribution",
+          "Name": "Corpsehmper",
+          "Damage": 5125655,
+          "Healing": 1619124,
+          "Rating": 2036
+        },
+        {
+          "Class": "Monk",
+          "Spec": "Mistweaver",
+          "Name": "Sackpuncher",
+          "Damage": 1010299,
+          "Healing": 4409487,
+          "Rating": 2036
+        }
+      ],
+      "Enemies": [
+        {
+          "Class": "Warrior",
+          "Spec": "Arms",
+          "Name": "Madmidget-EmeraldDream",
+          "Damage": 6216594,
+          "Healing": 963037,
+          "Rating": 2012
+        },
+        {
+          "Class": "Monk",
+          "Spec": "Mistweaver",
+          "Name": "Progrus-Hyjal",
+          "Damage": 1964090,
+          "Healing": 5149573,
+          "Rating": 1574
+        }
+      ],
+      "RatingAfter": 2025,
+      "RatingChange": -11,
+      "DurationSeconds": 123,
+      "DampeningPct": 52,
+      "OurMmr": 2074,
+      "EnemyMmr": 2054,
+      "Tags": [],
+      "Notes": "",
+      "Source": "addon",
+      "ExternalId": "Sackpuncher-Sargeras/20261112-212306-5829",
+      "RecordedBy": "Sackpuncher-Sargeras"
     }
   ]
 }
