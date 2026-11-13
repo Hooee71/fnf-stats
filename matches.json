@@ -4856,6 +4856,59 @@
       "Source": "addon",
       "ExternalId": "Sackpuncher-Sargeras/20261112-212306-5829",
       "RecordedBy": "Sackpuncher-Sargeras"
+    },
+    {
+      "Id": "bed4634b-f64a-7526-7378-b5f09a45149d",
+      "PlayedAt": "2026-11-12T21:33:54-05:00",
+      "Won": false,
+      "Map": "Empyrean Domain",
+      "OurTeam": [
+        {
+          "Class": "Paladin",
+          "Spec": "Retribution",
+          "Name": "Corpsehmper",
+          "Damage": 13021638,
+          "Healing": 2395448,
+          "Rating": 2025
+        },
+        {
+          "Class": "Monk",
+          "Spec": "Mistweaver",
+          "Name": "Sackpuncher",
+          "Damage": 2026867,
+          "Healing": 12282097,
+          "Rating": 2025
+        }
+      ],
+      "Enemies": [
+        {
+          "Class": "Priest",
+          "Spec": "Discipline",
+          "Name": "Jayfe\u00E2ther-Fenris",
+          "Damage": 7068520,
+          "Healing": 14137093,
+          "Rating": 2084
+        },
+        {
+          "Class": "Rogue",
+          "Spec": "Subtlety",
+          "Name": "Miece-MoonGuard",
+          "Damage": 10109718,
+          "Healing": 1467776,
+          "Rating": 2011
+        }
+      ],
+      "RatingAfter": 2013,
+      "RatingChange": -12,
+      "DurationSeconds": 312,
+      "DampeningPct": 52,
+      "OurMmr": 2023,
+      "EnemyMmr": 2032,
+      "Tags": [],
+      "Notes": "",
+      "Source": "addon",
+      "ExternalId": "Sackpuncher-Sargeras/20261112-212754-5758",
+      "RecordedBy": "Sackpuncher-Sargeras"
     }
   ]
 }
