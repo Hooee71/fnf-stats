@@ -5331,6 +5331,59 @@
       "Source": "addon",
       "ExternalId": "Jackbag-Sargeras/20261113-204626-6146",
       "RecordedBy": "Jackbag-Sargeras"
+    },
+    {
+      "Id": "82bc1818-e87b-cf9a-a2e0-fbc688e39d93",
+      "PlayedAt": "2026-11-13T20:58:12-05:00",
+      "Won": false,
+      "Map": "Mugambala",
+      "OurTeam": [
+        {
+          "Class": "Hunter",
+          "Spec": "Beast Mastery",
+          "Name": "Jackbag",
+          "Damage": 6305744,
+          "Healing": 1016301,
+          "Rating": 1820
+        },
+        {
+          "Class": "Priest",
+          "Spec": "Discipline",
+          "Name": "Balbgheels",
+          "Damage": 2355045,
+          "Healing": 9225737,
+          "Rating": 1820
+        }
+      ],
+      "Enemies": [
+        {
+          "Class": "Paladin",
+          "Spec": "Retribution",
+          "Name": "Bakednub-Mal\u0027Ganis",
+          "Damage": 9637001,
+          "Healing": 1112065,
+          "Rating": 1330
+        },
+        {
+          "Class": "Monk",
+          "Spec": "Mistweaver",
+          "Name": "Muayfemur-BleedingHollow",
+          "Damage": 2696724,
+          "Healing": 7446796,
+          "Rating": 480
+        }
+      ],
+      "RatingAfter": 1818,
+      "RatingChange": -2,
+      "DurationSeconds": 190,
+      "DampeningPct": 59,
+      "OurMmr": 1819,
+      "EnemyMmr": 2232,
+      "Tags": [],
+      "Notes": "",
+      "Source": "addon",
+      "ExternalId": "Jackbag-Sargeras/20261113-205737-9957",
+      "RecordedBy": "Jackbag-Sargeras"
     }
   ]
 }
