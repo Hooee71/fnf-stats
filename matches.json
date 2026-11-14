@@ -5696,6 +5696,59 @@
       "Source": "addon",
       "ExternalId": "Jackbag-Sargeras/20261113-214703-2049",
       "RecordedBy": "Jackbag-Sargeras"
+    },
+    {
+      "Id": "d04e87b9-c79c-a459-a8b5-7a332f494dc4",
+      "PlayedAt": "2026-11-13T21:59:13-05:00",
+      "Won": false,
+      "Map": "Maldraxxus Coliseum",
+      "OurTeam": [
+        {
+          "Class": "Hunter",
+          "Spec": "Beast Mastery",
+          "Name": "Jackbag",
+          "Damage": 11250122,
+          "Healing": 388349,
+          "Rating": 1859
+        },
+        {
+          "Class": "Priest",
+          "Spec": "Discipline",
+          "Name": "Balbgheels",
+          "Damage": 2734598,
+          "Healing": 9404767,
+          "Rating": 1859
+        }
+      ],
+      "Enemies": [
+        {
+          "Class": "Death Knight",
+          "Spec": "Unholy",
+          "Name": "Gnomimay-Zul\u0027jin",
+          "Damage": 9970577,
+          "Healing": 1465286,
+          "Rating": 1789
+        },
+        {
+          "Class": "Paladin",
+          "Spec": "Holy",
+          "Name": "Kuriel-Proudmoore",
+          "Damage": 2507116,
+          "Healing": 12679377,
+          "Rating": 1789
+        }
+      ],
+      "RatingAfter": 1849,
+      "RatingChange": -10,
+      "DurationSeconds": 241,
+      "DampeningPct": 44,
+      "OurMmr": 1936,
+      "EnemyMmr": 1926,
+      "Tags": [],
+      "Notes": "",
+      "Source": "addon",
+      "ExternalId": "Jackbag-Sargeras/20261113-215411-5300",
+      "RecordedBy": "Jackbag-Sargeras"
     }
   ]
 }
