@@ -5488,6 +5488,214 @@
       "Source": "addon",
       "ExternalId": "Jackbag-Sargeras/20261113-211359-9268",
       "RecordedBy": "Jackbag-Sargeras"
+    },
+    {
+      "Id": "3744ae0c-d9e2-c500-a94e-aac2f1329747",
+      "PlayedAt": "2026-11-13T21:27:05-05:00",
+      "Won": true,
+      "Map": "Enigma Crucible",
+      "OurTeam": [
+        {
+          "Class": "Hunter",
+          "Spec": "Beast Mastery",
+          "Name": "Jackbag",
+          "Damage": 7491826,
+          "Healing": 412870,
+          "Rating": 1819
+        },
+        {
+          "Class": "Priest",
+          "Spec": "Discipline",
+          "Name": "Balbgheels",
+          "Damage": 2107697,
+          "Healing": 6444919,
+          "Rating": 1819
+        }
+      ],
+      "Enemies": [
+        {
+          "Class": "Rogue",
+          "Spec": "Subtlety",
+          "Name": "Ojert-Tichondrius",
+          "Damage": 4571213,
+          "Healing": 1238170,
+          "Rating": 1415
+        },
+        {
+          "Class": "Priest",
+          "Spec": "Discipline",
+          "Name": "Chocki\u00E8x-Whisperwind",
+          "Damage": 2769187,
+          "Healing": 7412838,
+          "Rating": 576
+        }
+      ],
+      "RatingAfter": 1835,
+      "RatingChange": 16,
+      "DurationSeconds": 186,
+      "OurMmr": 1813,
+      "EnemyMmr": 1944,
+      "Tags": [],
+      "Notes": "",
+      "Source": "addon",
+      "ExternalId": "Jackbag-Sargeras/20261113-212305-3629",
+      "RecordedBy": "Jackbag-Sargeras"
+    },
+    {
+      "Id": "0cfef6ca-7d86-5d90-f94a-8a379f219300",
+      "PlayedAt": "2026-11-13T21:35:01-05:00",
+      "Won": true,
+      "Map": "Ruins of Lordaeron",
+      "OurTeam": [
+        {
+          "Class": "Hunter",
+          "Spec": "Beast Mastery",
+          "Name": "Jackbag",
+          "Damage": 12604014,
+          "Healing": 745655,
+          "Rating": 1835
+        },
+        {
+          "Class": "Priest",
+          "Spec": "Discipline",
+          "Name": "Balbgheels",
+          "Damage": 2526463,
+          "Healing": 10408097,
+          "Rating": 1835
+        }
+      ],
+      "Enemies": [
+        {
+          "Class": "Paladin",
+          "Spec": "Retribution",
+          "Name": "Linnyy-Zul\u0027jin",
+          "Damage": 8613676,
+          "Healing": 1499098,
+          "Rating": 1687
+        },
+        {
+          "Class": "Monk",
+          "Spec": "Mistweaver",
+          "Name": "Tendiesndew-Zul\u0027jin",
+          "Damage": 2568820,
+          "Healing": 11767478,
+          "Rating": 1687
+        }
+      ],
+      "RatingAfter": 1847,
+      "RatingChange": 12,
+      "DurationSeconds": 192,
+      "OurMmr": 1876,
+      "EnemyMmr": 1835,
+      "Tags": [],
+      "Notes": "",
+      "Source": "addon",
+      "ExternalId": "Jackbag-Sargeras/20261113-213052-5528",
+      "RecordedBy": "Jackbag-Sargeras"
+    },
+    {
+      "Id": "5f1e2c3a-97e6-8572-ddaf-d520248d6c1a",
+      "PlayedAt": "2026-11-13T21:42:42-05:00",
+      "Won": true,
+      "Map": "Dalaran Sewers",
+      "OurTeam": [
+        {
+          "Class": "Hunter",
+          "Spec": "Beast Mastery",
+          "Name": "Jackbag",
+          "Damage": 14067374,
+          "Healing": 1140590,
+          "Rating": 1847
+        },
+        {
+          "Class": "Priest",
+          "Spec": "Discipline",
+          "Name": "Balbgheels",
+          "Damage": 2327122,
+          "Healing": 10530766,
+          "Rating": 1847
+        }
+      ],
+      "Enemies": [
+        {
+          "Class": "Mage",
+          "Spec": "Frost",
+          "Name": "Zaronce-Malygos",
+          "Damage": 11467690,
+          "Healing": 520975,
+          "Rating": 576
+        },
+        {
+          "Class": "Priest",
+          "Spec": "Holy",
+          "Name": "Marijay-Illidan",
+          "Damage": 471448,
+          "Healing": 14740709,
+          "Rating": 1878
+        }
+      ],
+      "RatingAfter": 1867,
+      "RatingChange": 20,
+      "DurationSeconds": 230,
+      "OurMmr": 1918,
+      "EnemyMmr": 2118,
+      "Tags": [],
+      "Notes": "",
+      "Source": "addon",
+      "ExternalId": "Jackbag-Sargeras/20261113-213752-4562",
+      "RecordedBy": "Jackbag-Sargeras"
+    },
+    {
+      "Id": "9b9f4657-e22f-5b16-f0ef-6f4f081043ba",
+      "PlayedAt": "2026-11-13T21:49:51-05:00",
+      "Won": false,
+      "Map": "Black Rook Hold Arena",
+      "OurTeam": [
+        {
+          "Class": "Hunter",
+          "Spec": "Beast Mastery",
+          "Name": "Jackbag",
+          "Damage": 4925650,
+          "Healing": 729540,
+          "Rating": 1867
+        },
+        {
+          "Class": "Priest",
+          "Spec": "Discipline",
+          "Name": "Balbgheels",
+          "Damage": 1020460,
+          "Healing": 4084670,
+          "Rating": 1867
+        }
+      ],
+      "Enemies": [
+        {
+          "Class": "Shaman",
+          "Spec": "Elemental",
+          "Name": "Dewnani-Garithos",
+          "Damage": 4415926,
+          "Healing": 0,
+          "Rating": 1056
+        },
+        {
+          "Class": "Monk",
+          "Spec": "Mistweaver",
+          "Name": "Boarmaster-Tichondrius",
+          "Damage": 1834650,
+          "Healing": 6172946,
+          "Rating": 959
+        }
+      ],
+      "RatingChange": -8,
+      "DurationSeconds": 109,
+      "DampeningPct": 51,
+      "OurMmr": 1986,
+      "EnemyMmr": 1974,
+      "Tags": [],
+      "Notes": "",
+      "Source": "addon",
+      "ExternalId": "Jackbag-Sargeras/20261113-214703-2049",
+      "RecordedBy": "Jackbag-Sargeras"
     }
   ]
 }
