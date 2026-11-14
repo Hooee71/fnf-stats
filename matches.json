@@ -5384,6 +5384,110 @@
       "Source": "addon",
       "ExternalId": "Jackbag-Sargeras/20261113-205737-9957",
       "RecordedBy": "Jackbag-Sargeras"
+    },
+    {
+      "Id": "b12eba77-c4b1-65c9-695b-519e953dd6c0",
+      "PlayedAt": "2026-11-13T21:10:29-05:00",
+      "Won": true,
+      "Map": "The Tiger\u0027s Peak",
+      "OurTeam": [
+        {
+          "Class": "Hunter",
+          "Spec": "Beast Mastery",
+          "Name": "Jackbag",
+          "Damage": 12384891,
+          "Healing": 1138124,
+          "Rating": 1818
+        },
+        {
+          "Class": "Priest",
+          "Spec": "Discipline",
+          "Name": "Balbgheels",
+          "Damage": 2981532,
+          "Healing": 9940312,
+          "Rating": 1818
+        }
+      ],
+      "Enemies": [
+        {
+          "Class": "Demon Hunter",
+          "Spec": "Havoc",
+          "Name": "Branqt",
+          "Damage": 9894258,
+          "Healing": 3089581,
+          "Rating": 1812
+        },
+        {
+          "Class": "Paladin",
+          "Spec": "Holy",
+          "Name": "Yo\u00FAngdolph-Elune",
+          "Damage": 1444175,
+          "Healing": 10945073,
+          "Rating": 1565
+        }
+      ],
+      "RatingAfter": 1830,
+      "RatingChange": 12,
+      "DurationSeconds": 293,
+      "OurMmr": 1811,
+      "EnemyMmr": 1809,
+      "Tags": [],
+      "Notes": "",
+      "Source": "addon",
+      "ExternalId": "Jackbag-Sargeras/20261113-210445-8121",
+      "RecordedBy": "Jackbag-Sargeras"
+    },
+    {
+      "Id": "f8a75726-92ff-3d77-95be-70a434e266c6",
+      "PlayedAt": "2026-11-13T21:18:09-05:00",
+      "Won": false,
+      "Map": "Nokhudon Proving Grounds",
+      "OurTeam": [
+        {
+          "Class": "Hunter",
+          "Spec": "Beast Mastery",
+          "Name": "Jackbag",
+          "Damage": 11277643,
+          "Healing": 183275,
+          "Rating": 1830
+        },
+        {
+          "Class": "Priest",
+          "Spec": "Discipline",
+          "Name": "Balbgheels",
+          "Damage": 2514184,
+          "Healing": 9472072,
+          "Rating": 1830
+        }
+      ],
+      "Enemies": [
+        {
+          "Class": "Rogue",
+          "Spec": "Assassination",
+          "Name": "Maiiar-Azralon",
+          "Damage": 10797961,
+          "Healing": 1509294,
+          "Rating": 1143
+        },
+        {
+          "Class": "Shaman",
+          "Spec": "Restoration",
+          "Name": "Mejika-Area52",
+          "Damage": 155128,
+          "Healing": 11899139,
+          "Rating": 959
+        }
+      ],
+      "RatingAfter": 1819,
+      "RatingChange": -11,
+      "DurationSeconds": 194,
+      "OurMmr": 1859,
+      "EnemyMmr": 1857,
+      "Tags": [],
+      "Notes": "",
+      "Source": "addon",
+      "ExternalId": "Jackbag-Sargeras/20261113-211359-9268",
+      "RecordedBy": "Jackbag-Sargeras"
     }
   ]
 }
