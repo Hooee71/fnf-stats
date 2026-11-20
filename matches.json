@@ -5957,6 +5957,111 @@
       "Source": "addon",
       "ExternalId": "Sackpuncher-Sargeras/20261119-204831-3556",
       "RecordedBy": "Sackpuncher-Sargeras"
+    },
+    {
+      "Id": "d2d9ec0a-fa92-5050-79ad-08855f67d966",
+      "PlayedAt": "2026-11-19T20:55:43-05:00",
+      "Won": true,
+      "Map": "Ruins of Lordaeron",
+      "OurTeam": [
+        {
+          "Class": "Monk",
+          "Spec": "Mistweaver",
+          "Name": "Sackpuncher",
+          "Damage": 1328758,
+          "Healing": 5258508,
+          "Rating": 2027
+        },
+        {
+          "Class": "Paladin",
+          "Spec": "Retribution",
+          "Name": "Corpsehmper",
+          "Damage": 5551735,
+          "Healing": 1844700,
+          "Rating": 2027
+        }
+      ],
+      "Enemies": [
+        {
+          "Class": "Shaman",
+          "Spec": "Restoration",
+          "Name": "Razmin-Spinebreaker",
+          "Damage": 320651,
+          "Healing": 3698068,
+          "Rating": 1655
+        },
+        {
+          "Class": "Warlock",
+          "Spec": "Affliction",
+          "Name": "Sithen-Spinebreaker",
+          "Damage": 6871005,
+          "Healing": 1955241,
+          "Rating": 1995
+        }
+      ],
+      "RatingAfter": 2041,
+      "RatingChange": 14,
+      "DurationSeconds": 100,
+      "OurMmr": 2084,
+      "EnemyMmr": 2100,
+      "Tags": [],
+      "Notes": "",
+      "Source": "addon",
+      "ExternalId": "Sackpuncher-Sargeras/20261119-205311-8534",
+      "RecordedBy": "Sackpuncher-Sargeras"
+    },
+    {
+      "Id": "cd0d0a42-dc30-a732-10d5-e02da0d0695b",
+      "PlayedAt": "2026-11-19T21:00:56-05:00",
+      "Won": false,
+      "Map": "Ruins of Lordaeron",
+      "OurTeam": [
+        {
+          "Class": "Paladin",
+          "Spec": "Retribution",
+          "Name": "Corpsehmper",
+          "Damage": 8030982,
+          "Healing": 2703399,
+          "Rating": 2041
+        },
+        {
+          "Class": "Monk",
+          "Spec": "Mistweaver",
+          "Name": "Sackpuncher",
+          "Damage": 1033672,
+          "Healing": 6711833,
+          "Rating": 2041
+        }
+      ],
+      "Enemies": [
+        {
+          "Class": "Hunter",
+          "Spec": "Beast Mastery",
+          "Name": "Freest\u00FFle-Azralon",
+          "Damage": 8267358,
+          "Healing": 434842,
+          "Rating": 672
+        },
+        {
+          "Class": "Priest",
+          "Spec": "Discipline",
+          "Name": "Garanthia-Goldrinn",
+          "Damage": 3406418,
+          "Healing": 8677833,
+          "Rating": 1731
+        }
+      ],
+      "RatingAfter": 2037,
+      "RatingChange": -4,
+      "DurationSeconds": 163,
+      "DampeningPct": 57,
+      "OurMmr": 2134,
+      "EnemyMmr": 2335,
+      "Tags": [],
+      "Notes": "",
+      "Source": "addon",
+      "ExternalId": "Sackpuncher-Sargeras/20261119-205721-1738",
+      "RecordedBy": "Sackpuncher-Sargeras"
     }
   ]
 }
