@@ -6062,6 +6062,110 @@
       "Source": "addon",
       "ExternalId": "Sackpuncher-Sargeras/20261119-205721-1738",
       "RecordedBy": "Sackpuncher-Sargeras"
+    },
+    {
+      "Id": "cf91bd80-31ac-1fed-7324-438e39e5c24f",
+      "PlayedAt": "2026-11-19T21:09:21-05:00",
+      "Won": false,
+      "Map": "Ashamane\u0027s Fall",
+      "OurTeam": [
+        {
+          "Class": "Paladin",
+          "Spec": "Retribution",
+          "Name": "Corpsehmper",
+          "Damage": 16355309,
+          "Healing": 3317097,
+          "Rating": 2037
+        },
+        {
+          "Class": "Monk",
+          "Spec": "Mistweaver",
+          "Name": "Sackpuncher",
+          "Damage": 2304881,
+          "Healing": 15911524,
+          "Rating": 2037
+        }
+      ],
+      "Enemies": [
+        {
+          "Class": "Demon Hunter",
+          "Spec": "Havoc",
+          "Name": "Illidingus-BleedingHollow",
+          "Damage": 18262166,
+          "Healing": 2980896,
+          "Rating": 2056
+        },
+        {
+          "Class": "Evoker",
+          "Spec": "Preservation",
+          "Name": "Jakeshlongg-BleedingHollow",
+          "Damage": 2666494,
+          "Healing": 15624748,
+          "Rating": 864
+        }
+      ],
+      "RatingAfter": 2030,
+      "RatingChange": -7,
+      "DurationSeconds": 297,
+      "OurMmr": 2113,
+      "EnemyMmr": 2189,
+      "Tags": [],
+      "Notes": "",
+      "Source": "addon",
+      "ExternalId": "Sackpuncher-Sargeras/20261119-210342-1539",
+      "RecordedBy": "Sackpuncher-Sargeras"
+    },
+    {
+      "Id": "37171305-a7b7-1f76-2907-b5e3b5bd8a4f",
+      "PlayedAt": "2026-11-19T21:15:51-05:00",
+      "Won": false,
+      "Map": "Hook Point",
+      "OurTeam": [
+        {
+          "Class": "Paladin",
+          "Spec": "Retribution",
+          "Name": "Corpsehmper",
+          "Damage": 9396967,
+          "Healing": 2426291,
+          "Rating": 2030
+        },
+        {
+          "Class": "Monk",
+          "Spec": "Mistweaver",
+          "Name": "Sackpuncher",
+          "Damage": 2077373,
+          "Healing": 5137442,
+          "Rating": 2030
+        }
+      ],
+      "Enemies": [
+        {
+          "Class": "Rogue",
+          "Spec": "Subtlety",
+          "Name": "Whiana-Duskwood",
+          "Damage": 7588565,
+          "Healing": 1094211,
+          "Rating": 1241
+        },
+        {
+          "Class": "Monk",
+          "Spec": "Mistweaver",
+          "Name": "Tim-Gul\u0027dan",
+          "Damage": 1292842,
+          "Healing": 10143578,
+          "Rating": 862
+        }
+      ],
+      "RatingAfter": 2020,
+      "RatingChange": -10,
+      "DurationSeconds": 175,
+      "OurMmr": 2076,
+      "EnemyMmr": 2082,
+      "Tags": [],
+      "Notes": "",
+      "Source": "addon",
+      "ExternalId": "Sackpuncher-Sargeras/20261119-211202-6237",
+      "RecordedBy": "Sackpuncher-Sargeras"
     }
   ]
 }
