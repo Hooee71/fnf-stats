@@ -6166,6 +6166,215 @@
       "Source": "addon",
       "ExternalId": "Sackpuncher-Sargeras/20261119-211202-6237",
       "RecordedBy": "Sackpuncher-Sargeras"
+    },
+    {
+      "Id": "382ee6d6-2023-c2ab-7754-de14682eee0e",
+      "PlayedAt": "2026-11-19T21:29:06-05:00",
+      "Won": true,
+      "Map": "Ruins of Lordaeron",
+      "OurTeam": [
+        {
+          "Class": "Monk",
+          "Spec": "Mistweaver",
+          "Name": "Sackpuncher",
+          "Damage": 1562174,
+          "Healing": 14210684,
+          "Rating": 2020
+        },
+        {
+          "Class": "Paladin",
+          "Spec": "Retribution",
+          "Name": "Corpsehmper",
+          "Damage": 10329576,
+          "Healing": 2437140,
+          "Rating": 2020
+        }
+      ],
+      "Enemies": [
+        {
+          "Class": "Priest",
+          "Spec": "Discipline",
+          "Name": "Scarletholy-Darkspear",
+          "Damage": 3826393,
+          "Healing": 8851965,
+          "Rating": 1524
+        },
+        {
+          "Class": "Paladin",
+          "Spec": "Retribution",
+          "Name": "L\u00EF\u00F6nheart-Cho\u0027gall",
+          "Damage": 14025600,
+          "Healing": 1923746,
+          "Rating": 1802
+        }
+      ],
+      "RatingAfter": 2033,
+      "RatingChange": 13,
+      "DurationSeconds": 210,
+      "OurMmr": 2029,
+      "EnemyMmr": 2055,
+      "Tags": [],
+      "Notes": "",
+      "Source": "addon",
+      "ExternalId": "Sackpuncher-Sargeras/20261119-212443-8261",
+      "RecordedBy": "Sackpuncher-Sargeras"
+    },
+    {
+      "Id": "38837ca6-4071-de1b-0672-ef7fb28e520a",
+      "PlayedAt": "2026-11-19T21:36:09-05:00",
+      "Won": false,
+      "Map": "Maldraxxus Coliseum",
+      "OurTeam": [
+        {
+          "Class": "Monk",
+          "Spec": "Mistweaver",
+          "Name": "Sackpuncher",
+          "Damage": 1837989,
+          "Healing": 6199656,
+          "Rating": 2033
+        },
+        {
+          "Class": "Paladin",
+          "Spec": "Retribution",
+          "Name": "Corpsehmper",
+          "Damage": 8852911,
+          "Healing": 3113036,
+          "Rating": 2033
+        }
+      ],
+      "Enemies": [
+        {
+          "Class": "Monk",
+          "Spec": "Mistweaver",
+          "Name": "Tim-Gul\u0027dan",
+          "Damage": 1938976,
+          "Healing": 10165410,
+          "Rating": 1054
+        },
+        {
+          "Class": "Rogue",
+          "Spec": "Subtlety",
+          "Name": "Whiana-Duskwood",
+          "Damage": 9563654,
+          "Healing": 466078,
+          "Rating": 1431
+        }
+      ],
+      "RatingAfter": 2023,
+      "RatingChange": -10,
+      "DurationSeconds": 202,
+      "DampeningPct": 61,
+      "OurMmr": 2081,
+      "EnemyMmr": 2085,
+      "Tags": [],
+      "Notes": "",
+      "Source": "addon",
+      "ExternalId": "Sackpuncher-Sargeras/20261119-213149-2085",
+      "RecordedBy": "Sackpuncher-Sargeras"
+    },
+    {
+      "Id": "40d5a00b-a140-db1b-71d6-304a4bdf887c",
+      "PlayedAt": "2026-11-19T21:42:46-05:00",
+      "Won": true,
+      "Map": "Ruins of Lordaeron",
+      "OurTeam": [
+        {
+          "Class": "Monk",
+          "Spec": "Mistweaver",
+          "Name": "Sackpuncher",
+          "Damage": 1435330,
+          "Healing": 15528954,
+          "Rating": 2023
+        },
+        {
+          "Class": "Paladin",
+          "Spec": "Retribution",
+          "Name": "Corpsehmper",
+          "Damage": 11656296,
+          "Healing": 2720599,
+          "Rating": 2023
+        }
+      ],
+      "Enemies": [
+        {
+          "Class": "Priest",
+          "Spec": "Discipline",
+          "Name": "Hypnotiq-BleedingHollow",
+          "Damage": 3046907,
+          "Healing": 9680879,
+          "Rating": 1914
+        },
+        {
+          "Class": "Warrior",
+          "Spec": "Arms",
+          "Name": "Ceeyblur",
+          "Damage": 15936397,
+          "Healing": 1236097,
+          "Rating": 1340
+        }
+      ],
+      "RatingAfter": 2035,
+      "RatingChange": 12,
+      "DurationSeconds": 218,
+      "OurMmr": 2033,
+      "EnemyMmr": 2019,
+      "Tags": [],
+      "Notes": "",
+      "Source": "addon",
+      "ExternalId": "Sackpuncher-Sargeras/20261119-213817-1030",
+      "RecordedBy": "Sackpuncher-Sargeras"
+    },
+    {
+      "Id": "85298492-3028-bae8-2e2e-91f79fc07b45",
+      "PlayedAt": "2026-11-19T21:52:54-05:00",
+      "Won": false,
+      "Map": "Nokhudon Proving Grounds",
+      "OurTeam": [
+        {
+          "Class": "Monk",
+          "Spec": "Mistweaver",
+          "Name": "Sackpuncher",
+          "Damage": 2544925,
+          "Healing": 9824515,
+          "Rating": 2035
+        },
+        {
+          "Class": "Paladin",
+          "Spec": "Retribution",
+          "Name": "Corpsehmper",
+          "Damage": 17337714,
+          "Healing": 3070046,
+          "Rating": 2035
+        }
+      ],
+      "Enemies": [
+        {
+          "Class": "Druid",
+          "Spec": "Restoration",
+          "Name": "Moonrstrudel-Turalyon",
+          "Damage": 2811981,
+          "Healing": 16832455,
+          "Rating": 2041
+        },
+        {
+          "Class": "Hunter",
+          "Spec": "Beast Mastery",
+          "Name": "Alucardeez-Illidan",
+          "Damage": 11285438,
+          "Healing": 2245230,
+          "Rating": 1576
+        }
+      ],
+      "RatingAfter": 2025,
+      "RatingChange": -10,
+      "DurationSeconds": 289,
+      "OurMmr": 2079,
+      "EnemyMmr": 2091,
+      "Tags": [],
+      "Notes": "",
+      "Source": "addon",
+      "ExternalId": "Sackpuncher-Sargeras/20261119-214707-6441",
+      "RecordedBy": "Sackpuncher-Sargeras"
     }
   ]
 }
