@@ -81,24 +81,41 @@
     apply();
   }
 
-  // Stats page: switch between the pre-built ranges; the choice is kept in the address (#all, #night…).
+  // Stats page: switch between the pre-built ranges and our comps; the choice is kept in the
+  // address (#all, #night, #all--holy-paladin-subtlety-rogue…).
   var tabs = document.querySelectorAll("[data-range]");
   if (tabs.length) {
-    function show(id) {
-      var found = false;
-      tabs.forEach(function (t) { var on = t.getAttribute("data-range") === id; t.classList.toggle("on", on); t.setAttribute("aria-selected", on); found = found || on; });
+    var compButtons = document.querySelectorAll("[data-comp]");
+    var cur = { range: tabs[0].getAttribute("data-range"), comp: "" };
+    function show(range, comp) {
+      var id = comp ? range + "--" + comp : range, found = false;
+      document.querySelectorAll("[data-panel]").forEach(function (p) { if (p.getAttribute("data-panel") === id) found = true; });
       if (!found) return false;
+      tabs.forEach(function (t) { var on = t.getAttribute("data-range") === range; t.classList.toggle("on", on); t.setAttribute("aria-selected", on); });
+      compButtons.forEach(function (b) { var on = b.getAttribute("data-comp") === comp; b.classList.toggle("on", on); b.setAttribute("aria-pressed", on); });
       document.querySelectorAll("[data-panel]").forEach(function (p) { p.hidden = p.getAttribute("data-panel") !== id; });
+      cur = { range: range, comp: comp };
       return true;
+    }
+    function remember() {
+      try { history.replaceState(null, "", "#" + (cur.comp ? cur.range + "--" + cur.comp : cur.range)); } catch (e) { }
     }
     tabs.forEach(function (t) {
       t.addEventListener("click", function () {
-        var id = t.getAttribute("data-range");
-        show(id);
-        try { history.replaceState(null, "", "#" + id); } catch (e) { }
+        var range = t.getAttribute("data-range");
+        if (!show(range, cur.comp)) show(range, "");
+        remember();
       });
     });
-    if (!show(location.hash.slice(1))) show(tabs[0].getAttribute("data-range"));
+    compButtons.forEach(function (b) {
+      b.addEventListener("click", function () {
+        if (!show(cur.range, b.getAttribute("data-comp"))) show(tabs[0].getAttribute("data-range"), b.getAttribute("data-comp"));
+        remember();
+      });
+    });
+    var hash = location.hash.slice(1), cut = hash.indexOf("--");
+    var hRange = cut < 0 ? hash : hash.slice(0, cut), hComp = cut < 0 ? "" : hash.slice(cut + 2);
+    if (!show(hRange, hComp) && !show(hRange, "")) show(tabs[0].getAttribute("data-range"), "");
   }
 
   if (restored) {
